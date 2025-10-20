@@ -1,8 +1,8 @@
 require 'json'
 
 # --- Load game IDs and any existing data ---
-game_ids = JSON.parse(File.read("swamp_game_ids.json"))
-existing = File.exist?("swamp_schedule.json") ? JSON.parse(File.read("swamp_schedule.json")) : []
+game_ids = JSON.parse(File.read("reign_game_ids.json"))
+existing = File.exist?("reign_schedule.json") ? JSON.parse(File.read("reign_schedule.json")) : []
 
 # Create a hash keyed by game_id for easy updates
 existing_by_id = {}
@@ -57,5 +57,5 @@ end
 sorted_games = existing_by_id.values.sort_by { |g| g["date"] || "" }
 
 # --- Write updated file ---
-File.write("swamp_schedule.json", JSON.pretty_generate(sorted_games))
-puts "✅ Updated swamp_schedule.json with #{existing_by_id.size} games"
+File.write("reign_schedule.json", JSON.pretty_generate(sorted_games))
+puts "✅ Updated reign_schedule.json with #{existing_by_id.size} games"
