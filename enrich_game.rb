@@ -56,7 +56,7 @@ if goal_table
   idx_goal   = headers.index { |h| h.match?(/Goal|Scorer/i) } || 5
   idx_assist = headers.index { |h| h.match?(/Assist/i) } || 6
 
-  greenville_is_home = game["location"] == "Home"
+  ontario_is_home = game["location"] == "Home"
 
   goal_table.css('tr')[1..]&.each do |row|
     tds = row.css('td')
@@ -69,10 +69,10 @@ if goal_table
 
     entry = assists.nil? || assists.empty? ? scorer : "#{scorer} (#{assists})"
 
-    if team_code == "GVL"
-      greenville_is_home ? home_goals << entry : away_goals << entry
+    if team_code == "ONT"
+      ontario_is_home ? home_goals << entry : away_goals << entry
     else
-      greenville_is_home ? away_goals << entry : home_goals << entry
+      ontario_is_home ? away_goals << entry : home_goals << entry
     end
   end
 end
@@ -169,20 +169,20 @@ end
   # ---------- Build result ----------
   result = nil
   if status == "Final"
-    greenville_is_home = home_team =~ /Greenville/i
-    greenville_score = greenville_is_home ? home_score : away_score
-    opponent_score   = greenville_is_home ? away_score : home_score
+    ontario_is_home = home_team =~ /ontario/i
+    ontario_score = ontario_is_home ? home_score : away_score
+    opponent_score   = ontario_is_home ? away_score : home_score
 
     prefix =
       if overtime_type == "SO"
-        greenville_score > opponent_score ? "W(SO)" : "L(SO)"
+        ontario_score > opponent_score ? "W(SO)" : "L(SO)"
       elsif overtime_type == "OT"
-        greenville_score > opponent_score ? "W(OT)" : "L(OT)"
+        ontario_score > opponent_score ? "W(OT)" : "L(OT)"
       else
-        greenville_score > opponent_score ? "W" : "L"
+        ontario_score > opponent_score ? "W" : "L"
       end
 
-    result = "#{prefix} #{[greenville_score, opponent_score].max}-#{[greenville_score, opponent_score].min}"
+    result = "#{prefix} #{[ontario_score, opponent_score].max}-#{[ontario_score, opponent_score].min}"
   end
 
   {
@@ -213,7 +213,7 @@ game_id = ARGV[0]
 game = nil
 if File.exist?("reign_game_ids.json")
   begin
-    games = JSON.parse(File.read("swamp_game_ids.json"))
+    games = JSON.parse(File.read("reign_game_ids.json"))
     game = games.find { |g| g["game_id"].to_s == game_id.to_s }
   rescue
     game = nil
