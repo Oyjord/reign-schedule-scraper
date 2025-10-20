@@ -1,0 +1,44 @@
+
+name: Enrich Swamp Schedule
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'  # ⏰ Runs every 30 minutes
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Enrich all games
+        run: bundle exec ruby enrich_all.rb
+
+      - name: 🧪 Test enrich_game.rb parser
+        run: ruby enrich_game.rb 24319 | head -40
+
+      - name: Upload debug HTML
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-html
+          path: /tmp/debug_*.html
+          
+      - name: Commit and push
+        run: |
+          git config user.name "SwampBot"
+          git config user.email "swampbot@example.com"
+          git add swamp_schedule.json
+          git diff --cached --quiet || git commit -m "Enrich swamp schedule"
+          git push
