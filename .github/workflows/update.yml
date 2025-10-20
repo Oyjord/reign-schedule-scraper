@@ -1,0 +1,36 @@
+name: Update Reign Schedule
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Extract game IDs
+        run: bundle exec ruby extract_game_ids.rb
+
+      - name: Enrich all games
+        run: bundle exec ruby enrich_all.rb
+
+      - name: Commit and push
+        run: |
+          git config user.name "SwampBot"
+          git config user.email "swampbot@example.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Update swamp schedule"
+          git push
