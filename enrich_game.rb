@@ -4,7 +4,7 @@ require 'nokogiri'
 require 'json'
 require 'time'
 
-GAME_REPORT_BASE = "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=echl&game_id="
+GAME_REPORT_BASE = "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id="
 
 def parse_game_sheet(game_id, game = nil)
   url = "#{GAME_REPORT_BASE}#{game_id}&lang_id=1"
