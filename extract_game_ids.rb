@@ -26,15 +26,15 @@ end
 def extract_reign_games(rows)
   rows.select do |row|
     r = row["row"]
-    r["home_team_city"] == "Greenville" || r["visiting_team_city"] == "Greenville"
+    r["home_team_city"] == "Ontario" || r["visiting_team_city"] == "Ontario"
   end.map do |game|
     r = game["row"]
     p = game["prop"]
     {
       game_id: p["game_center"]["gameLink"].to_i,
       date: r["date"],
-      opponent: r["home_team_city"] == "Greenville" ? r["visiting_team_city"] : r["home_team_city"],
-      location: r["home_team_city"] == "Greenville" ? "Home" : "Away"
+      opponent: r["home_team_city"] == "Ontario" ? r["visiting_team_city"] : r["home_team_city"],
+      location: r["home_team_city"] == "Ontario" ? "Home" : "Away"
     }
   end
 end
