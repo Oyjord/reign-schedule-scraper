@@ -1,433 +1,433 @@
 [
   {
     "game_id": 1027778,
-    "date": null,
+    "date": "Fri, Oct 10",
     "opponent": "Tucson",
     "location": "Home"
   },
   {
     "game_id": 1027800,
-    "date": null,
+    "date": "Sun, Oct 12",
     "opponent": "Tucson",
     "location": "Home"
   },
   {
     "game_id": 1027808,
-    "date": null,
+    "date": "Fri, Oct 17",
     "opponent": "Henderson",
     "location": "Home"
   },
   {
     "game_id": 1027830,
-    "date": null,
+    "date": "Sun, Oct 19",
     "opponent": "Colorado",
     "location": "Home"
   },
   {
     "game_id": 1027839,
-    "date": null,
+    "date": "Fri, Oct 24",
     "opponent": "Abbotsford",
     "location": "Away"
   },
   {
     "game_id": 1027866,
-    "date": null,
+    "date": "Sun, Oct 26",
     "opponent": "Abbotsford",
     "location": "Away"
   },
   {
     "game_id": 1027879,
-    "date": null,
+    "date": "Wed, Oct 29",
     "opponent": "Henderson",
     "location": "Away"
   },
   {
     "game_id": 1027890,
-    "date": null,
+    "date": "Fri, Oct 31",
     "opponent": "San Jose",
     "location": "Away"
   },
   {
     "game_id": 1027904,
-    "date": null,
+    "date": "Sat, Nov 1",
     "opponent": "San Jose",
     "location": "Away"
   },
   {
     "game_id": 1027918,
-    "date": null,
+    "date": "Tue, Nov 4",
     "opponent": "San Jose",
     "location": "Home"
   },
   {
     "game_id": 1027934,
-    "date": null,
+    "date": "Fri, Nov 7",
     "opponent": "San Diego",
     "location": "Away"
   },
   {
     "game_id": 1027948,
-    "date": null,
+    "date": "Sat, Nov 8",
     "opponent": "San Diego",
     "location": "Home"
   },
   {
     "game_id": 1027958,
-    "date": null,
+    "date": "Tue, Nov 11",
     "opponent": "Calgary",
     "location": "Away"
   },
   {
     "game_id": 1027963,
-    "date": null,
+    "date": "Wed, Nov 12",
     "opponent": "Calgary",
     "location": "Away"
   },
   {
     "game_id": 1027992,
-    "date": null,
+    "date": "Sat, Nov 15",
     "opponent": "San Jose",
     "location": "Away"
   },
   {
     "game_id": 1028016,
-    "date": null,
+    "date": "Fri, Nov 21",
     "opponent": "Bakersfield",
     "location": "Home"
   },
   {
     "game_id": 1028022,
-    "date": null,
+    "date": "Sat, Nov 22",
     "opponent": "Bakersfield",
     "location": "Away"
   },
   {
     "game_id": 1028058,
-    "date": null,
+    "date": "Fri, Nov 28",
     "opponent": "Henderson",
     "location": "Home"
   },
   {
     "game_id": 1028081,
-    "date": null,
+    "date": "Sun, Nov 30",
     "opponent": "Texas",
     "location": "Home"
   },
   {
     "game_id": 1028113,
-    "date": null,
+    "date": "Sat, Dec 6",
     "opponent": "Calgary",
     "location": "Home"
   },
   {
     "game_id": 1028121,
-    "date": null,
+    "date": "Sun, Dec 7",
     "opponent": "Calgary",
     "location": "Home"
   },
   {
     "game_id": 1028127,
-    "date": null,
+    "date": "Tue, Dec 9",
     "opponent": "Texas",
     "location": "Home"
   },
   {
     "game_id": 1028139,
-    "date": null,
+    "date": "Fri, Dec 12",
     "opponent": "Colorado",
     "location": "Away"
   },
   {
     "game_id": 1028151,
-    "date": null,
+    "date": "Sat, Dec 13",
     "opponent": "Colorado",
     "location": "Away"
   },
   {
     "game_id": 1028171,
-    "date": null,
+    "date": "Wed, Dec 17",
     "opponent": "Bakersfield",
     "location": "Away"
   },
   {
     "game_id": 1028197,
-    "date": null,
+    "date": "Sat, Dec 20",
     "opponent": "San Jose",
     "location": "Home"
   },
   {
     "game_id": 1028208,
-    "date": null,
+    "date": "Sun, Dec 21",
     "opponent": "San Jose",
     "location": "Home"
   },
   {
     "game_id": 1028220,
-    "date": null,
+    "date": "Sat, Dec 27",
     "opponent": "San Jose",
     "location": "Away"
   },
   {
     "game_id": 1028236,
-    "date": null,
+    "date": "Tue, Dec 30",
     "opponent": "Henderson",
     "location": "Away"
   },
   {
     "game_id": 1028247,
-    "date": null,
+    "date": "Wed, Dec 31",
     "opponent": "San Jose",
     "location": "Home"
   },
   {
     "game_id": 1028269,
-    "date": null,
+    "date": "Sat, Jan 3",
     "opponent": "Coachella Valley",
     "location": "Home"
   },
   {
     "game_id": 1028276,
-    "date": null,
+    "date": "Sun, Jan 4",
     "opponent": "Iowa",
     "location": "Home"
   },
   {
     "game_id": 1028286,
-    "date": null,
+    "date": "Wed, Jan 7",
     "opponent": "Iowa",
     "location": "Home"
   },
   {
     "game_id": 1028295,
-    "date": null,
+    "date": "Fri, Jan 9",
     "opponent": "Henderson",
     "location": "Home"
   },
   {
     "game_id": 1028318,
-    "date": null,
+    "date": "Sun, Jan 11",
     "opponent": "Bakersfield",
     "location": "Away"
   },
   {
     "game_id": 1028325,
-    "date": null,
+    "date": "Tue, Jan 13",
     "opponent": "Colorado",
     "location": "Away"
   },
   {
     "game_id": 1028329,
-    "date": null,
+    "date": "Wed, Jan 14",
     "opponent": "Colorado",
     "location": "Away"
   },
   {
     "game_id": 1028357,
-    "date": null,
+    "date": "Sat, Jan 17",
     "opponent": "Texas",
     "location": "Away"
   },
   {
     "game_id": 1028368,
-    "date": null,
+    "date": "Sun, Jan 18",
     "opponent": "Texas",
     "location": "Away"
   },
   {
     "game_id": 1028385,
-    "date": null,
+    "date": "Fri, Jan 23",
     "opponent": "Coachella Valley",
     "location": "Away"
   },
   {
     "game_id": 1028402,
-    "date": null,
+    "date": "Sat, Jan 24",
     "opponent": "Colorado",
     "location": "Home"
   },
   {
     "game_id": 1028421,
-    "date": null,
+    "date": "Wed, Jan 28",
     "opponent": "Abbotsford",
     "location": "Home"
   },
   {
     "game_id": 1028443,
-    "date": null,
+    "date": "Sat, Jan 31",
     "opponent": "San Diego",
     "location": "Away"
   },
   {
     "game_id": 1028455,
-    "date": null,
+    "date": "Sun, Feb 1",
     "opponent": "Coachella Valley",
     "location": "Home"
   },
   {
     "game_id": 1028461,
-    "date": null,
+    "date": "Wed, Feb 4",
     "opponent": "Tucson",
     "location": "Home"
   },
   {
     "game_id": 1028468,
-    "date": null,
+    "date": "Fri, Feb 6",
     "opponent": "Bakersfield",
     "location": "Away"
   },
   {
     "game_id": 1028492,
-    "date": null,
+    "date": "Sat, Feb 7",
     "opponent": "Bakersfield",
     "location": "Home"
   },
   {
     "game_id": 1028501,
-    "date": null,
+    "date": "Sat, Feb 14",
     "opponent": "Abbotsford",
     "location": "Away"
   },
   {
     "game_id": 1028525,
-    "date": null,
+    "date": "Mon, Feb 16",
     "opponent": "Abbotsford",
     "location": "Away"
   },
   {
     "game_id": 1028534,
-    "date": null,
+    "date": "Wed, Feb 18",
     "opponent": "Abbotsford",
     "location": "Home"
   },
   {
     "game_id": 1028564,
-    "date": null,
+    "date": "Sat, Feb 21",
     "opponent": "Tucson",
     "location": "Away"
   },
   {
     "game_id": 1028571,
-    "date": null,
+    "date": "Sun, Feb 22",
     "opponent": "Tucson",
     "location": "Away"
   },
   {
     "game_id": 1028612,
-    "date": null,
+    "date": "Sun, Mar 1",
     "opponent": "Bakersfield",
     "location": "Home"
   },
   {
     "game_id": 1028624,
-    "date": null,
+    "date": "Wed, Mar 4",
     "opponent": "Tucson",
     "location": "Home"
   },
   {
     "game_id": 1028636,
-    "date": null,
+    "date": "Fri, Mar 6",
     "opponent": "Henderson",
     "location": "Home"
   },
   {
     "game_id": 1028657,
-    "date": null,
+    "date": "Sun, Mar 8",
     "opponent": "Henderson",
     "location": "Away"
   },
   {
     "game_id": 1028668,
-    "date": null,
+    "date": "Wed, Mar 11",
     "opponent": "Colorado",
     "location": "Home"
   },
   {
     "game_id": 1028676,
-    "date": null,
+    "date": "Fri, Mar 13",
     "opponent": "Coachella Valley",
     "location": "Away"
   },
   {
     "game_id": 1028690,
-    "date": null,
+    "date": "Sat, Mar 14",
     "opponent": "Coachella Valley",
     "location": "Home"
   },
   {
     "game_id": 1028718,
-    "date": null,
+    "date": "Wed, Mar 18",
     "opponent": "Abbotsford",
     "location": "Home"
   },
   {
     "game_id": 1028724,
-    "date": null,
+    "date": "Fri, Mar 20",
     "opponent": "Iowa",
     "location": "Away"
   },
   {
     "game_id": 1028737,
-    "date": null,
+    "date": "Sat, Mar 21",
     "opponent": "Iowa",
     "location": "Away"
   },
   {
     "game_id": 1028758,
-    "date": null,
+    "date": "Wed, Mar 25",
     "opponent": "Henderson",
     "location": "Away"
   },
   {
     "game_id": 1028773,
-    "date": null,
+    "date": "Fri, Mar 27",
     "opponent": "Tucson",
     "location": "Away"
   },
   {
     "game_id": 1028786,
-    "date": null,
+    "date": "Sat, Mar 28",
     "opponent": "Tucson",
     "location": "Away"
   },
   {
     "game_id": 1028802,
-    "date": null,
+    "date": "Wed, Apr 1",
     "opponent": "Coachella Valley",
     "location": "Away"
   },
   {
     "game_id": 1028830,
-    "date": null,
+    "date": "Sat, Apr 4",
     "opponent": "Bakersfield",
     "location": "Home"
   },
   {
     "game_id": 1028840,
-    "date": null,
+    "date": "Tue, Apr 7",
     "opponent": "Colorado",
     "location": "Home"
   },
   {
     "game_id": 1028858,
-    "date": null,
+    "date": "Fri, Apr 10",
     "opponent": "Coachella Valley",
     "location": "Home"
   },
   {
     "game_id": 1028865,
-    "date": null,
+    "date": "Sat, Apr 11",
     "opponent": "Coachella Valley",
     "location": "Away"
   },
   {
     "game_id": 1028899,
-    "date": null,
+    "date": "Fri, Apr 17",
     "opponent": "San Diego",
     "location": "Home"
   },
   {
     "game_id": 1028910,
-    "date": null,
+    "date": "Sat, Apr 18",
     "opponent": "Abbotsford",
     "location": "Home"
   }

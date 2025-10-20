@@ -1,3 +1,1313 @@
 [
+  {
+    "game_id": 1028858,
+    "date": "Fri, Apr 10",
+    "opponent": "Coachella Valley",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
 
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028858&lang_id=1"
+  },
+  {
+    "game_id": 1028899,
+    "date": "Fri, Apr 17",
+    "opponent": "San Diego",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028899&lang_id=1"
+  },
+  {
+    "game_id": 1028139,
+    "date": "Fri, Dec 12",
+    "opponent": "Colorado",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028139&lang_id=1"
+  },
+  {
+    "game_id": 1028468,
+    "date": "Fri, Feb 6",
+    "opponent": "Bakersfield",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028468&lang_id=1"
+  },
+  {
+    "game_id": 1028385,
+    "date": "Fri, Jan 23",
+    "opponent": "Coachella Valley",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028385&lang_id=1"
+  },
+  {
+    "game_id": 1028295,
+    "date": "Fri, Jan 9",
+    "opponent": "Henderson",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028295&lang_id=1"
+  },
+  {
+    "game_id": 1028676,
+    "date": "Fri, Mar 13",
+    "opponent": "Coachella Valley",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028676&lang_id=1"
+  },
+  {
+    "game_id": 1028724,
+    "date": "Fri, Mar 20",
+    "opponent": "Iowa",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028724&lang_id=1"
+  },
+  {
+    "game_id": 1028773,
+    "date": "Fri, Mar 27",
+    "opponent": "Tucson",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028773&lang_id=1"
+  },
+  {
+    "game_id": 1028636,
+    "date": "Fri, Mar 6",
+    "opponent": "Henderson",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028636&lang_id=1"
+  },
+  {
+    "game_id": 1028016,
+    "date": "Fri, Nov 21",
+    "opponent": "Bakersfield",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028016&lang_id=1"
+  },
+  {
+    "game_id": 1028058,
+    "date": "Fri, Nov 28",
+    "opponent": "Henderson",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028058&lang_id=1"
+  },
+  {
+    "game_id": 1027934,
+    "date": "Fri, Nov 7",
+    "opponent": "San Diego",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027934&lang_id=1"
+  },
+  {
+    "game_id": 1027778,
+    "date": "Fri, Oct 10",
+    "opponent": "Tucson",
+    "location": "Home",
+    "status": "Final",
+    "home_score": 4,
+    "away_score": 5,
+    "home_goals": [
+      "A. Lee (A. Thomas)",
+      "F. Pinelli ( )",
+      "A. Jämsen (E. Portillo)",
+      "A. Thomas (F. Pinelli)"
+    ],
+    "away_goals": [
+      "B. McCartney (C. Hebig, A. Poganski)",
+      "S. Walker (C. Hebig, B. McCartney)",
+      "O. Allard (K. Connauton, M. Matikka)",
+      "K. Rooney (S. Walker, A. Duda)",
+      "S. Walker (S. Perunovich, M. Szuber)"
+    ],
+    "result": "L(SO) 5-4",
+    "overtime_type": "SO",
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027778&lang_id=1"
+  },
+  {
+    "game_id": 1027808,
+    "date": "Fri, Oct 17",
+    "opponent": "Henderson",
+    "location": "Home",
+    "status": "Final",
+    "home_score": 0,
+    "away_score": 2,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+      "T. Laczynski ( )",
+      "R. Lavoie (L. Cormier, J. Davies)"
+    ],
+    "result": "L 2-0",
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027808&lang_id=1"
+  },
+  {
+    "game_id": 1027839,
+    "date": "Fri, Oct 24",
+    "opponent": "Abbotsford",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027839&lang_id=1"
+  },
+  {
+    "game_id": 1027890,
+    "date": "Fri, Oct 31",
+    "opponent": "San Jose",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027890&lang_id=1"
+  },
+  {
+    "game_id": 1028525,
+    "date": "Mon, Feb 16",
+    "opponent": "Abbotsford",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028525&lang_id=1"
+  },
+  {
+    "game_id": 1028865,
+    "date": "Sat, Apr 11",
+    "opponent": "Coachella Valley",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028865&lang_id=1"
+  },
+  {
+    "game_id": 1028910,
+    "date": "Sat, Apr 18",
+    "opponent": "Abbotsford",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028910&lang_id=1"
+  },
+  {
+    "game_id": 1028830,
+    "date": "Sat, Apr 4",
+    "opponent": "Bakersfield",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028830&lang_id=1"
+  },
+  {
+    "game_id": 1028151,
+    "date": "Sat, Dec 13",
+    "opponent": "Colorado",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028151&lang_id=1"
+  },
+  {
+    "game_id": 1028197,
+    "date": "Sat, Dec 20",
+    "opponent": "San Jose",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028197&lang_id=1"
+  },
+  {
+    "game_id": 1028220,
+    "date": "Sat, Dec 27",
+    "opponent": "San Jose",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028220&lang_id=1"
+  },
+  {
+    "game_id": 1028113,
+    "date": "Sat, Dec 6",
+    "opponent": "Calgary",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028113&lang_id=1"
+  },
+  {
+    "game_id": 1028501,
+    "date": "Sat, Feb 14",
+    "opponent": "Abbotsford",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028501&lang_id=1"
+  },
+  {
+    "game_id": 1028564,
+    "date": "Sat, Feb 21",
+    "opponent": "Tucson",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028564&lang_id=1"
+  },
+  {
+    "game_id": 1028492,
+    "date": "Sat, Feb 7",
+    "opponent": "Bakersfield",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028492&lang_id=1"
+  },
+  {
+    "game_id": 1028357,
+    "date": "Sat, Jan 17",
+    "opponent": "Texas",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028357&lang_id=1"
+  },
+  {
+    "game_id": 1028402,
+    "date": "Sat, Jan 24",
+    "opponent": "Colorado",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028402&lang_id=1"
+  },
+  {
+    "game_id": 1028269,
+    "date": "Sat, Jan 3",
+    "opponent": "Coachella Valley",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028269&lang_id=1"
+  },
+  {
+    "game_id": 1028443,
+    "date": "Sat, Jan 31",
+    "opponent": "San Diego",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028443&lang_id=1"
+  },
+  {
+    "game_id": 1028690,
+    "date": "Sat, Mar 14",
+    "opponent": "Coachella Valley",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028690&lang_id=1"
+  },
+  {
+    "game_id": 1028737,
+    "date": "Sat, Mar 21",
+    "opponent": "Iowa",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028737&lang_id=1"
+  },
+  {
+    "game_id": 1028786,
+    "date": "Sat, Mar 28",
+    "opponent": "Tucson",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028786&lang_id=1"
+  },
+  {
+    "game_id": 1027904,
+    "date": "Sat, Nov 1",
+    "opponent": "San Jose",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027904&lang_id=1"
+  },
+  {
+    "game_id": 1027992,
+    "date": "Sat, Nov 15",
+    "opponent": "San Jose",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027992&lang_id=1"
+  },
+  {
+    "game_id": 1028022,
+    "date": "Sat, Nov 22",
+    "opponent": "Bakersfield",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028022&lang_id=1"
+  },
+  {
+    "game_id": 1027948,
+    "date": "Sat, Nov 8",
+    "opponent": "San Diego",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027948&lang_id=1"
+  },
+  {
+    "game_id": 1028208,
+    "date": "Sun, Dec 21",
+    "opponent": "San Jose",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028208&lang_id=1"
+  },
+  {
+    "game_id": 1028121,
+    "date": "Sun, Dec 7",
+    "opponent": "Calgary",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028121&lang_id=1"
+  },
+  {
+    "game_id": 1028455,
+    "date": "Sun, Feb 1",
+    "opponent": "Coachella Valley",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028455&lang_id=1"
+  },
+  {
+    "game_id": 1028571,
+    "date": "Sun, Feb 22",
+    "opponent": "Tucson",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028571&lang_id=1"
+  },
+  {
+    "game_id": 1028318,
+    "date": "Sun, Jan 11",
+    "opponent": "Bakersfield",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028318&lang_id=1"
+  },
+  {
+    "game_id": 1028368,
+    "date": "Sun, Jan 18",
+    "opponent": "Texas",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028368&lang_id=1"
+  },
+  {
+    "game_id": 1028276,
+    "date": "Sun, Jan 4",
+    "opponent": "Iowa",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028276&lang_id=1"
+  },
+  {
+    "game_id": 1028612,
+    "date": "Sun, Mar 1",
+    "opponent": "Bakersfield",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028612&lang_id=1"
+  },
+  {
+    "game_id": 1028657,
+    "date": "Sun, Mar 8",
+    "opponent": "Henderson",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028657&lang_id=1"
+  },
+  {
+    "game_id": 1028081,
+    "date": "Sun, Nov 30",
+    "opponent": "Texas",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028081&lang_id=1"
+  },
+  {
+    "game_id": 1027800,
+    "date": "Sun, Oct 12",
+    "opponent": "Tucson",
+    "location": "Home",
+    "status": "Final",
+    "home_score": 4,
+    "away_score": 2,
+    "home_goals": [
+      "A. Thomas (K. Connors, J. Millar)",
+      "J. Hicketts (K. Lawrence, J. Doty)",
+      "O. Salin ( )",
+      "M. Chromiak (J. Hicketts, A. Lee)"
+    ],
+    "away_goals": [
+      "K. Rooney (D. But, S. Walker)",
+      "C. Hebig (B. McCartney, M. Kunc)"
+    ],
+    "result": "W 4-2",
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027800&lang_id=1"
+  },
+  {
+    "game_id": 1027830,
+    "date": "Sun, Oct 19",
+    "opponent": "Colorado",
+    "location": "Home",
+    "status": "Final",
+    "home_score": 3,
+    "away_score": 2,
+    "home_goals": [
+      "M. Chromiak (J. Hicketts, G. Gawdin)",
+      "S. Bolduc (J. Hicketts, K. Connors)",
+      "S. Bolduc (A. Jämsen)"
+    ],
+    "away_goals": [
+      "I. Ivan (J. Polin)",
+      "D. Gushchin (W. Aamodt, J. Ahcan)"
+    ],
+    "result": "W 3-2",
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027830&lang_id=1"
+  },
+  {
+    "game_id": 1027866,
+    "date": "Sun, Oct 26",
+    "opponent": "Abbotsford",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027866&lang_id=1"
+  },
+  {
+    "game_id": 1028840,
+    "date": "Tue, Apr 7",
+    "opponent": "Colorado",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028840&lang_id=1"
+  },
+  {
+    "game_id": 1028236,
+    "date": "Tue, Dec 30",
+    "opponent": "Henderson",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028236&lang_id=1"
+  },
+  {
+    "game_id": 1028127,
+    "date": "Tue, Dec 9",
+    "opponent": "Texas",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028127&lang_id=1"
+  },
+  {
+    "game_id": 1028325,
+    "date": "Tue, Jan 13",
+    "opponent": "Colorado",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028325&lang_id=1"
+  },
+  {
+    "game_id": 1027958,
+    "date": "Tue, Nov 11",
+    "opponent": "Calgary",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027958&lang_id=1"
+  },
+  {
+    "game_id": 1027918,
+    "date": "Tue, Nov 4",
+    "opponent": "San Jose",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027918&lang_id=1"
+  },
+  {
+    "game_id": 1028802,
+    "date": "Wed, Apr 1",
+    "opponent": "Coachella Valley",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028802&lang_id=1"
+  },
+  {
+    "game_id": 1028171,
+    "date": "Wed, Dec 17",
+    "opponent": "Bakersfield",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028171&lang_id=1"
+  },
+  {
+    "game_id": 1028247,
+    "date": "Wed, Dec 31",
+    "opponent": "San Jose",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028247&lang_id=1"
+  },
+  {
+    "game_id": 1028534,
+    "date": "Wed, Feb 18",
+    "opponent": "Abbotsford",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028534&lang_id=1"
+  },
+  {
+    "game_id": 1028461,
+    "date": "Wed, Feb 4",
+    "opponent": "Tucson",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028461&lang_id=1"
+  },
+  {
+    "game_id": 1028329,
+    "date": "Wed, Jan 14",
+    "opponent": "Colorado",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028329&lang_id=1"
+  },
+  {
+    "game_id": 1028421,
+    "date": "Wed, Jan 28",
+    "opponent": "Abbotsford",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028421&lang_id=1"
+  },
+  {
+    "game_id": 1028286,
+    "date": "Wed, Jan 7",
+    "opponent": "Iowa",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028286&lang_id=1"
+  },
+  {
+    "game_id": 1028668,
+    "date": "Wed, Mar 11",
+    "opponent": "Colorado",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028668&lang_id=1"
+  },
+  {
+    "game_id": 1028718,
+    "date": "Wed, Mar 18",
+    "opponent": "Abbotsford",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028718&lang_id=1"
+  },
+  {
+    "game_id": 1028758,
+    "date": "Wed, Mar 25",
+    "opponent": "Henderson",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028758&lang_id=1"
+  },
+  {
+    "game_id": 1028624,
+    "date": "Wed, Mar 4",
+    "opponent": "Tucson",
+    "location": "Home",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028624&lang_id=1"
+  },
+  {
+    "game_id": 1027963,
+    "date": "Wed, Nov 12",
+    "opponent": "Calgary",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027963&lang_id=1"
+  },
+  {
+    "game_id": 1027879,
+    "date": "Wed, Oct 29",
+    "opponent": "Henderson",
+    "location": "Away",
+    "status": "Upcoming",
+    "home_score": 0,
+    "away_score": 0,
+    "home_goals": [
+
+    ],
+    "away_goals": [
+
+    ],
+    "result": null,
+    "overtime_type": null,
+    "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027879&lang_id=1"
+  }
 ]
