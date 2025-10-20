@@ -29,8 +29,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config user.name "SwampBot"
-          git config user.email "swampbot@example.com"
+          git config user.name "ReignBot"
+          git config user.email "reignbot@example.com"
           git add -A
-          git diff --cached --quiet || git commit -m "Update swamp schedule"
+          git diff --cached --quiet || git commit -m "Update reign schedule"
           git push
