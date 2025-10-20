@@ -2,7 +2,7 @@
 require 'open-uri'
 require 'json'
 
-FEED_URL = "https://lscluster.hockeytech.com/feed/index.php?feed=statviewfeed&view=schedule&team=403&season=90&month=-1&location=homeaway&key=ccb91f29d6744675&client_code=ahl&site_id=0&league_id=4&conference_id=-1&division_id=-1&lang=en&callback=angular.callbacks._1"
+FEED_URL = "https://lscluster.hockeytech.com/feed/index.php?feed=statviewfeed&view=schedule&team=403&season=90&month=-1&location=homeaway&key=ccb91f29d6744675&client_code=ahl&site_id=0&league_id=4&conference_id=-1&division_id=-1&lang=en&callback=angular.callbacks._0"
 
 def fetch_schedule
   raw = URI.open(FEED_URL).read.strip
