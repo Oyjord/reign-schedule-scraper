@@ -32,7 +32,7 @@ def extract_reign_games(rows)
     p = game["prop"]
     {
       game_id: p["game_center"]["gameLink"].to_i,
-      date: r["date"],
+      date: r["date_with_day"],
       opponent: r["home_team_city"] == "Ontario" ? r["visiting_team_city"] : r["home_team_city"],
       location: r["home_team_city"] == "Ontario" ? "Home" : "Away"
     }
