@@ -1,5 +1,4 @@
-
-name: Enrich Swamp Schedule
+name: Enrich Reign Schedule
 
 on:
   workflow_dispatch:
@@ -37,8 +36,8 @@ jobs:
           
       - name: Commit and push
         run: |
-          git config user.name "SwampBot"
-          git config user.email "swampbot@example.com"
-          git add swamp_schedule.json
-          git diff --cached --quiet || git commit -m "Enrich swamp schedule"
+          git config user.name "ReignBot"
+          git config user.email "reignbot@example.com"
+          git add reign_schedule.json
+          git diff --cached --quiet || git commit -m "Enrich reign schedule"
           git push
