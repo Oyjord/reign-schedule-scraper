@@ -23,7 +23,7 @@ def fetch_schedule
   JSON.parse(raw)
 end
 
-def extract_swamp_games(rows)
+def extract_reign_games(rows)
   rows.select do |row|
     r = row["row"]
     r["home_team_city"] == "Greenville" || r["visiting_team_city"] == "Greenville"
@@ -41,7 +41,7 @@ end
 
 data = fetch_schedule
 rows = data[0]["sections"][0]["data"]
-swamp_games = extract_swamp_games(rows)
+reign_games = extract_reign_games(rows)
 
-File.write("swamp_game_ids.json", JSON.pretty_generate(swamp_games))
-puts "✅ Extracted #{swamp_games.size} Swamp Rabbits games to swamp_game_ids.json"
+File.write("reign_game_ids.json", JSON.pretty_generate(reign_games))
+puts "✅ Extracted #{reign_games.size} reign Rabbits games to reign_game_ids.json"
