@@ -156,13 +156,13 @@ so_home = home_cells.length > 5 ? normalize.call(home_cells[5]) : ""
 # ✅ Only assign overtime_type if game is Final
 overtime_type = nil
 if status == "Final"
-  so_goals = so_away.to_i + so_home.to_i
   ot_goals = ot_away.to_i + ot_home.to_i
+  so_goals = so_away.to_i + so_home.to_i
 
-  if so_goals > 0
-    overtime_type = "SO"
-  elsif ot_goals > 0
+  if ot_goals > 0
     overtime_type = "OT"
+  elsif so_goals > 0
+    overtime_type = "SO"
   end
 end
 
