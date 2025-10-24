@@ -19,7 +19,7 @@ tz = TZInfo::Timezone.get('America/Los_Angeles')
 lookup = {}
 events.each do |event|
   date_str = event.dtstart.strftime("%a, %b %-d")  # Matches game["date"]
-  lookup[date_str] = event.dtstart.to_time.iso8601
+  lookup[date_str] = event.dtstart.iso8601  # ✅ Preserves -07:00 or -08:00 offset
 end
 
 # --- Inject scheduled_start into schedule ---
