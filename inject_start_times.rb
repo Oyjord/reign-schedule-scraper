@@ -21,7 +21,7 @@ events.each do |event|
   date_str = event.dtstart.strftime("%a, %b %-d")  # Matches game["date"]
 
   # Convert UTC to Pacific Time and preserve offset
-  local = tz.utc_to_local(event.dtstart)
+  local = tz.utc_to_local(event.dtstart.to_time)
   pacific = local.getlocal("-07:00")  # DST-safe for PDT
   lookup[date_str] = pacific.iso8601
 
