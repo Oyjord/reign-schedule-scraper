@@ -196,7 +196,7 @@ end
     "away_goals" => away_goals,
     "overtime_type" => overtime_type,
     "result" => result,
-    "game_report_url" => url
+    "game_report_url" => url,
     "scheduled_start" => scheduled_start&.iso8601
   }
 rescue => e
