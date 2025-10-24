@@ -14,9 +14,13 @@ events = Icalendar::Calendar.parse(ics_data).first.events
 # --- Build lookup: "Fri, Oct 24" => ISO8601 Pacific Time ---
 lookup = {}
 events.each do |event|
-  date_str = event.dtstart.strftime("%a, %b %-d")  # Matches game["date"]
-  local = event.dtstart.to_time                   # Already Pacific-local
-  lookup[date_str] = local.iso8601                # Preserves -07:00 or -08:00
+  date_str = event.dtstart.strftime("%a, %b %-d")
+
+  # ✅ Use the raw DateTime value to preserve Pacific offset
+  local = event.dtstart.value  # This is a Ruby DateTime with correct TZ
+  lookup[date_str] = local.iso8601
+
+  puts "🧪 Event: #{event.summary}, Pacific: #{local.iso8601}"
 end
 
 # --- Inject scheduled_start into schedule ---
