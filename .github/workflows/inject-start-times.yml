@@ -1,0 +1,30 @@
+name: Inject Start Times
+
+on:
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  inject:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Run inject_start_times.rb
+        run: ruby inject_start_times.rb
+
+      - name: Commit updated schedule
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add reign_schedule.json
+          git commit -m "Inject scheduled_start from .ics"
+          git push
