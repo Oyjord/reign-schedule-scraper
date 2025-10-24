@@ -26,6 +26,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add reign_schedule.json
-          git commit -m "Inject scheduled_start from .ics calendar"
+          git add reign_schedule.json Gemfile.lock  # ✅ Stage both files
+          git commit -m "Inject scheduled_start from .ics calendar" || echo "No changes to commit"
           git push
