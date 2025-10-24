@@ -3,6 +3,7 @@ require 'open-uri'
 require 'nokogiri'
 require 'json'
 require 'time'
+require 'icalendar'
 
 GAME_REPORT_BASE = "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id="
 
