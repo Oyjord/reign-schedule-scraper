@@ -149,7 +149,7 @@ def parse_game_sheet(game_id, game = nil)
     "overtime_type" => overtime_type,
     "result" => result,
     "game_report_url" => url,
-    "scheduled_start" => match_ics_start(game, fetch_ics_events)&.iso8601
+    "scheduled_start" => game["scheduled_start"]
   }
 rescue => e
   warn "⚠️ Failed to parse game sheet for #{game_id}: #{e}"
