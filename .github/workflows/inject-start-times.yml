@@ -1,7 +1,9 @@
-name: Inject Scheduled Start Times
+name: Inject Pacific-local scheduled_start
 
 on:
-  workflow_dispatch:  # Manual trigger from GitHub UI
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'  # Runs daily at 6:00 AM UTC
 
 jobs:
   inject:
@@ -14,18 +16,18 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'
+          ruby-version: 3.2
 
       - name: Install dependencies
-        run: bundle install
+        run: gem install icalendar tzinfo
 
-      - name: Run inject_start_times.rb
+      - name: Run injection script
         run: ruby inject_start_times.rb
 
       - name: Commit updated schedule
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add reign_schedule.json Gemfile.lock  # ✅ Stage both files
-          git commit -m "Inject scheduled_start from .ics calendar" || echo "No changes to commit"
+          git add reign_schedule.json
+          git diff --cached --quiet || git commit -m "Inject Pacific-local scheduled_start from .ics"
           git push
