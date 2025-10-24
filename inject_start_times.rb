@@ -3,32 +3,26 @@ require 'json'
 require 'icalendar'
 require 'tzinfo'
 
-# --- Load reign_schedule.json ---
+# Load reign_schedule.json
 schedule_path = "reign_schedule.json"
 schedule = JSON.parse(File.read(schedule_path))
 
-# --- Parse .ics calendar ---
+# Parse .ics calendar
 ics_url = "https://ontarioreign.com/calendar/schedule/"
 ics_data = URI.open(ics_url).read
 events = Icalendar::Calendar.parse(ics_data).first.events
 
-# --- Timezone conversion setup ---
+# Convert UTC to Pacific Time
 tz = TZInfo::Timezone.get('America/Los_Angeles')
-
-# --- Build lookup: "Fri, Oct 31" => ISO8601 Pacific Time ---
 lookup = {}
+
 events.each do |event|
   date_str = event.dtstart.strftime("%a, %b %-d")  # Matches game["date"]
-
-  # Convert UTC to Pacific Time
-  utc_time = event.dtstart.to_time
-  local = tz.utc_to_local(utc_time)
+  local = tz.utc_to_local(event.dtstart.to_time)
   lookup[date_str] = local.iso8601
-
-  puts "🧪 Event: #{event.summary}, UTC: #{utc_time}, Pacific: #{local.iso8601}"
 end
 
-# --- Inject scheduled_start into schedule ---
+# Inject scheduled_start
 injected_count = 0
 schedule.each do |game|
   if lookup[game["date"]]
@@ -37,6 +31,6 @@ schedule.each do |game|
   end
 end
 
-# --- Write updated schedule ---
+# Write updated schedule
 File.write(schedule_path, JSON.pretty_generate(schedule))
 puts "✅ Injected scheduled_start into #{injected_count} games"
