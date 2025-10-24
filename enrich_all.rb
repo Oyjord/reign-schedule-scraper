@@ -37,20 +37,21 @@ game_ids.each do |game|
   next unless data # skip nil results
 
   # Build the enriched game entry
-  existing_by_id[game_id] = {
-    "game_id" => game_id,
-    "date" => game["date"],
-    "opponent" => game["opponent"],
-    "location" => game["location"],
-    "status" => data["status"] || "Final",
-    "home_score" => data["home_score"],
-    "away_score" => data["away_score"],
-    "home_goals" => data["home_goals"],
-    "away_goals" => data["away_goals"],
-    "result" => data["result"],
-    "overtime_type" => data["overtime_type"],
-    "game_report_url" => data["game_report_url"]
-  }
+existing_by_id[game_id] = {
+  "game_id" => game_id,
+  "date" => game["date"],
+  "opponent" => game["opponent"],
+  "location" => game["location"],
+  "status" => data["status"],
+  "home_score" => data["home_score"],
+  "away_score" => data["away_score"],
+  "home_goals" => data["home_goals"],
+  "away_goals" => data["away_goals"],
+  "result" => data["result"],
+  "overtime_type" => data["overtime_type"],
+  "game_report_url" => data["game_report_url"],
+  "scheduled_start" => data["scheduled_start"] # ✅ New field added here
+}
 end
 
 # --- Sort safely by date (handle nil dates) ---
