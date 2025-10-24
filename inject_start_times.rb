@@ -23,7 +23,8 @@ events.each do |event|
   # 🧪 Debug log to inspect timezone and ISO output
   puts "🧪 Event: #{event.summary}, DTSTART: #{event.dtstart}, Offset: #{event.dtstart.offset}, ISO: #{event.dtstart.iso8601}"
 
-  lookup[date_str] = event.dtstart.iso8601  # ✅ Preserves -07:00 or -08:00 offset
+  local = tz.utc_to_local(event.dtstart.to_time)  # ✅ Convert UTC to Pacific
+  lookup[date_str] = local.iso8601
 end
 
 # --- Inject scheduled_start into schedule ---
