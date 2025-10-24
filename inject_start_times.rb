@@ -20,12 +20,12 @@ lookup = {}
 events.each do |event|
   date_str = event.dtstart.strftime("%a, %b %-d")  # Matches game["date"]
 
-  # Convert UTC to Pacific Time and preserve offset
-  local = tz.utc_to_local(event.dtstart.to_time)
-  pacific = local.getlocal("-07:00")  # DST-safe for PDT
-  lookup[date_str] = pacific.iso8601
+  # Convert UTC to Pacific Time
+  utc_time = event.dtstart.to_time
+  local = tz.utc_to_local(utc_time)
+  lookup[date_str] = local.iso8601
 
-  puts "🧪 Event: #{event.summary}, UTC: #{event.dtstart}, Pacific: #{pacific.iso8601}"
+  puts "🧪 Event: #{event.summary}, UTC: #{utc_time}, Pacific: #{local.iso8601}"
 end
 
 # --- Inject scheduled_start into schedule ---
