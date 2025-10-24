@@ -1,6 +1,7 @@
 require 'open-uri'
 require 'json'
 require 'icalendar'
+require 'tzinfo'
 
 # --- Load reign_schedule.json ---
 schedule_path = "reign_schedule.json"
@@ -11,11 +12,15 @@ ics_url = "https://ontarioreign.com/calendar/schedule/"
 ics_data = URI.open(ics_url).read
 events = Icalendar::Calendar.parse(ics_data).first.events
 
-# --- Build lookup: "Fri, Oct 31" => ISO8601 time ---
+# --- Timezone conversion setup ---
+tz = TZInfo::Timezone.get('America/Los_Angeles')
+
+# --- Build lookup: "Fri, Oct 31" => ISO8601 Pacific Time ---
 lookup = {}
 events.each do |event|
   date_str = event.dtstart.strftime("%a, %b %-d")  # Matches game["date"]
-  lookup[date_str] = event.dtstart.iso8601
+  local = tz.utc_to_local(event.dtstart.to_time)
+  lookup[date_str] = local.iso8601
 end
 
 # --- Inject scheduled_start into schedule ---
