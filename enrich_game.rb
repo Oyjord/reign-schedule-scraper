@@ -197,6 +197,7 @@ end
     "overtime_type" => overtime_type,
     "result" => result,
     "game_report_url" => url
+    "scheduled_start" => scheduled_start&.iso8601
   }
 rescue => e
   warn "⚠️ Failed to parse game sheet for #{game_id}: #{e}"
