@@ -16,7 +16,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028858&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-04-10T19:00:00-07:00"
   },
   {
     "game_id": 1028899,
@@ -35,7 +35,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028899&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-04-17T19:00:00-07:00"
   },
   {
     "game_id": 1028139,
@@ -54,7 +54,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028139&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-12-12T18:05:00-08:00"
   },
   {
     "game_id": 1028468,
@@ -73,7 +73,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028468&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-02-06T19:00:00-08:00"
   },
   {
     "game_id": 1028385,
@@ -92,7 +92,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028385&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-01-23T19:00:00-08:00"
   },
   {
     "game_id": 1028295,
@@ -111,7 +111,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028295&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-01-09T19:00:00-08:00"
   },
   {
     "game_id": 1028676,
@@ -130,7 +130,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028676&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-03-13T19:00:00-07:00"
   },
   {
     "game_id": 1028724,
@@ -149,7 +149,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028724&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-03-20T17:00:00-07:00"
   },
   {
     "game_id": 1028773,
@@ -168,7 +168,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028773&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-03-27T19:00:00-07:00"
   },
   {
     "game_id": 1028636,
@@ -187,7 +187,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028636&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-03-06T19:00:00-08:00"
   },
   {
     "game_id": 1028016,
@@ -206,7 +206,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028016&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-11-21T19:00:00-08:00"
   },
   {
     "game_id": 1028058,
@@ -225,7 +225,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028058&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-11-28T19:00:00-08:00"
   },
   {
     "game_id": 1027934,
@@ -244,7 +244,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027934&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-11-07T19:00:00-08:00"
   },
   {
     "game_id": 1027778,
@@ -309,7 +309,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027839&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-10-24T19:00:00-07:00"
   },
   {
     "game_id": 1027890,
@@ -328,7 +328,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027890&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-10-31T19:00:00-07:00"
   },
   {
     "game_id": 1028525,
@@ -347,7 +347,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028525&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-02-16T13:00:00-08:00"
   },
   {
     "game_id": 1028865,
@@ -366,7 +366,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028865&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-04-11T18:00:00-07:00"
   },
   {
     "game_id": 1028910,
@@ -385,7 +385,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028910&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-04-18T18:00:00-07:00"
   },
   {
     "game_id": 1028830,
@@ -404,7 +404,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028830&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-04-04T18:00:00-07:00"
   },
   {
     "game_id": 1028151,
@@ -423,7 +423,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028151&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-12-13T18:05:00-08:00"
   },
   {
     "game_id": 1028197,
@@ -442,7 +442,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028197&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-12-20T18:00:00-08:00"
   },
   {
     "game_id": 1028220,
@@ -461,7 +461,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028220&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-12-27T18:00:00-08:00"
   },
   {
     "game_id": 1028113,
@@ -480,7 +480,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028113&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-12-06T18:00:00-08:00"
   },
   {
     "game_id": 1028501,
@@ -499,7 +499,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028501&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-02-14T19:00:00-08:00"
   },
   {
     "game_id": 1028564,
@@ -518,7 +518,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028564&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-02-21T18:00:00-08:00"
   },
   {
     "game_id": 1028492,
@@ -537,7 +537,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028492&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-02-07T18:00:00-08:00"
   },
   {
     "game_id": 1028357,
@@ -556,7 +556,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028357&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-01-17T17:00:00-08:00"
   },
   {
     "game_id": 1028402,
@@ -575,7 +575,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028402&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-01-24T18:00:00-08:00"
   },
   {
     "game_id": 1028269,
@@ -594,7 +594,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028269&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-01-03T18:00:00-08:00"
   },
   {
     "game_id": 1028443,
@@ -613,7 +613,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028443&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-01-31T18:00:00-08:00"
   },
   {
     "game_id": 1028690,
@@ -632,7 +632,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028690&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-03-14T18:00:00-07:00"
   },
   {
     "game_id": 1028737,
@@ -651,7 +651,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028737&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-03-21T15:00:00-07:00"
   },
   {
     "game_id": 1028786,
@@ -670,7 +670,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028786&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-03-28T19:00:00-07:00"
   },
   {
     "game_id": 1027904,
@@ -689,7 +689,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027904&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-11-01T18:00:00-07:00"
   },
   {
     "game_id": 1027992,
@@ -708,7 +708,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027992&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-11-15T18:00:00-08:00"
   },
   {
     "game_id": 1028022,
@@ -727,7 +727,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028022&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-11-22T19:00:00-08:00"
   },
   {
     "game_id": 1027948,
@@ -746,7 +746,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027948&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-11-08T18:00:00-08:00"
   },
   {
     "game_id": 1028208,
@@ -765,7 +765,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028208&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-12-21T15:00:00-08:00"
   },
   {
     "game_id": 1028121,
@@ -784,7 +784,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028121&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-12-07T15:00:00-08:00"
   },
   {
     "game_id": 1028455,
@@ -803,7 +803,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028455&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-02-01T15:00:00-08:00"
   },
   {
     "game_id": 1028571,
@@ -822,7 +822,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028571&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-02-22T15:00:00-08:00"
   },
   {
     "game_id": 1028318,
@@ -841,7 +841,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028318&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-01-11T16:00:00-08:00"
   },
   {
     "game_id": 1028368,
@@ -860,7 +860,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028368&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-01-18T15:00:00-08:00"
   },
   {
     "game_id": 1028276,
@@ -879,7 +879,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028276&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-01-04T15:00:00-08:00"
   },
   {
     "game_id": 1028612,
@@ -898,7 +898,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028612&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-03-01T15:00:00-08:00"
   },
   {
     "game_id": 1028657,
@@ -917,7 +917,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028657&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-03-08T15:00:00-07:00"
   },
   {
     "game_id": 1028081,
@@ -936,7 +936,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028081&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-11-30T17:00:00-08:00"
   },
   {
     "game_id": 1027800,
@@ -1000,7 +1000,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027866&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-10-26T15:00:00-07:00"
   },
   {
     "game_id": 1028840,
@@ -1019,7 +1019,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028840&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-04-07T19:00:00-07:00"
   },
   {
     "game_id": 1028236,
@@ -1038,7 +1038,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028236&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-12-30T19:00:00-08:00"
   },
   {
     "game_id": 1028127,
@@ -1057,7 +1057,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028127&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-12-09T19:00:00-08:00"
   },
   {
     "game_id": 1028325,
@@ -1076,7 +1076,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028325&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-01-13T18:05:00-08:00"
   },
   {
     "game_id": 1027958,
@@ -1095,7 +1095,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027958&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-11-11T17:00:00-08:00"
   },
   {
     "game_id": 1027918,
@@ -1114,7 +1114,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027918&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-11-04T19:00:00-08:00"
   },
   {
     "game_id": 1028802,
@@ -1133,7 +1133,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028802&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-04-01T18:30:00-07:00"
   },
   {
     "game_id": 1028171,
@@ -1152,7 +1152,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028171&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-12-17T18:30:00-08:00"
   },
   {
     "game_id": 1028247,
@@ -1171,7 +1171,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028247&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-12-31T18:00:00-08:00"
   },
   {
     "game_id": 1028534,
@@ -1190,7 +1190,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028534&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-02-18T19:00:00-08:00"
   },
   {
     "game_id": 1028461,
@@ -1209,7 +1209,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028461&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-02-04T19:00:00-08:00"
   },
   {
     "game_id": 1028329,
@@ -1228,7 +1228,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028329&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-01-14T18:05:00-08:00"
   },
   {
     "game_id": 1028421,
@@ -1247,7 +1247,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028421&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-01-28T19:00:00-08:00"
   },
   {
     "game_id": 1028286,
@@ -1266,7 +1266,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028286&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-01-07T19:00:00-08:00"
   },
   {
     "game_id": 1028668,
@@ -1285,7 +1285,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028668&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-03-11T19:00:00-07:00"
   },
   {
     "game_id": 1028718,
@@ -1304,7 +1304,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028718&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-03-18T19:00:00-07:00"
   },
   {
     "game_id": 1028758,
@@ -1323,7 +1323,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028758&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-03-25T19:00:00-07:00"
   },
   {
     "game_id": 1028624,
@@ -1342,7 +1342,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028624&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2026-03-04T19:00:00-08:00"
   },
   {
     "game_id": 1027963,
@@ -1361,7 +1361,7 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027963&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-11-12T18:00:00-08:00"
   },
   {
     "game_id": 1027879,
@@ -1380,6 +1380,6 @@
     "result": null,
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027879&lang_id=1",
-    "scheduled_start": null
+    "scheduled_start": "2025-10-29T19:00:00-07:00"
   }
 ]
