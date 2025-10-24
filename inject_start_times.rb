@@ -19,6 +19,10 @@ tz = TZInfo::Timezone.get('America/Los_Angeles')
 lookup = {}
 events.each do |event|
   date_str = event.dtstart.strftime("%a, %b %-d")  # Matches game["date"]
+
+  # 🧪 Debug log to inspect timezone and ISO output
+  puts "🧪 Event: #{event.summary}, DTSTART: #{event.dtstart}, Offset: #{event.dtstart.offset}, ISO: #{event.dtstart.iso8601}"
+
   lookup[date_str] = event.dtstart.iso8601  # ✅ Preserves -07:00 or -08:00 offset
 end
 
