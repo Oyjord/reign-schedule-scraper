@@ -51,8 +51,8 @@ def parse_game_sheet(game_id, game = nil)
       "away_goals" => [],
       "overtime_type" => nil,
       "result" => nil,
-      "game_report_url" => url,
-      "scheduled_start" => match_ics_start(game, fetch_ics_events)&.iso8601
+      "game_report_url" => url
+ # --  "scheduled_start" => game["scheduled_start"] || match_ics_start(game, fetch_ics_events)&.iso8601
     }
   end
 
