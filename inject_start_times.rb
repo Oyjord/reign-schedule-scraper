@@ -18,9 +18,14 @@ tz = TZInfo::Timezone.get('America/Los_Angeles')
 # --- Build lookup: "Fri, Oct 24" => ISO8601 Pacific Time ---
 lookup = {}
 events.each do |event|
-  date_str = event.dtstart.strftime("%a, %b %-d")
-  local = event.dtstart.value  # ✅ Preserves Pacific offset
+  date_str = event.dtstart.strftime("%a, %b %-d")  # Matches game["date"]
+
+  # Convert to UTC time first, then shift to Pacific-local
+  utc_time = event.dtstart.to_time
+  local = tz.utc_to_local(utc_time)
   lookup[date_str] = local.iso8601
+
+  puts "🧪 Event: #{event.summary}, UTC: #{utc_time}, Pacific: #{local.iso8601}"
 end
 
 # --- Inject scheduled_start into schedule ---
