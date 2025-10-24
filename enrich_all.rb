@@ -50,7 +50,7 @@ existing_by_id[game_id] = {
   "result" => data["result"],
   "overtime_type" => data["overtime_type"],
   "game_report_url" => data["game_report_url"],
-  "scheduled_start" => data["scheduled_start"] # ✅ New field added here
+  "scheduled_start" => existing_by_id[game_id]["scheduled_start"]
 }
 end
 
