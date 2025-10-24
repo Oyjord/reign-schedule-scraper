@@ -1,11 +1,12 @@
-name: Inject Start Times
+name: Inject Scheduled Start Times
 
 on:
-  workflow_dispatch:  # Manual trigger
+  workflow_dispatch:  # Manual trigger from GitHub UI
 
 jobs:
   inject:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -26,5 +27,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add reign_schedule.json
-          git commit -m "Inject scheduled_start from .ics"
+          git commit -m "Inject scheduled_start from .ics calendar"
           git push
