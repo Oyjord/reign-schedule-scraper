@@ -14,12 +14,12 @@ events = Icalendar::Calendar.parse(ics_data).first.events
 # --- Build lookup: "Fri, Oct 31|San Jose" => ISO8601 time ---
 lookup = {}
 events.each do |event|
-  date_str = event.start.strftime("%a, %b %-d") # e.g. "Fri, Oct 31"
+  date_str = event.dtstart.strftime("%a, %b %-d") # e.g. "Fri, Oct 31"
   opponent = event.summary.split('@').last.strip rescue nil
   next unless opponent
 
   key = "#{date_str}|#{opponent}"
-  lookup[key] = event.start.iso8601
+  lookup[key] = event.dtstart.iso8601
 end
 
 # --- Inject scheduled_start into schedule ---
