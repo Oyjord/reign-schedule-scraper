@@ -99,15 +99,14 @@ def parse_game_sheet(game_id, game = nil)
   end
 
   # ---------- Status ----------
-  # ---------- Status ----------
 scheduled_start = nil
 begin
-  scheduled_start = Time.parse(game["scheduled_start"]).utc if game && game["scheduled_start"]
+  scheduled_start = Time.iso8601(game["scheduled_start"]) if game && game["scheduled_start"]
 rescue
   scheduled_start = nil
 end
 
-now = Time.now.utc
+now = Time.now
 
 has_final_indicator =
   (doc.text =~ /\bFinal\b/i && doc.text !~ /not available/i)
@@ -125,6 +124,15 @@ status =
     "Upcoming"
   end
 
+# ---------- Debug (optional) ----------
+if game_id.to_s == "1027839"
+  warn "🧪 scheduled_start: #{scheduled_start}"
+  warn "🧪 now: #{now}"
+  warn "🧪 now >= scheduled_start: #{now >= scheduled_start}" if scheduled_start
+  warn "🧪 status: #{status}"
+  warn "🧪 has_final_indicator: #{has_final_indicator}"
+end
+  
   # ---------- OT/SO ----------
   normalize = ->(v) { v.to_s.gsub(/\u00A0/, '').strip }
   ot_away = away_cells.length > 5 ? normalize.call(away_cells[4]) : ""
