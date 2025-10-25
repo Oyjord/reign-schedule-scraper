@@ -98,6 +98,19 @@ def parse_game_sheet(game_id, game = nil)
     end
   end
 
+meta_table = doc.css('table').find { |t| t.text.match?(/Game Start|Game End|Game Length/i) }
+meta = {}
+if meta_table
+  meta_table.css('tr').each do |r|
+    tds = r.css('td').map { |td| td.text.gsub("\u00A0", ' ').strip }
+    next unless tds.size >= 2
+    meta[tds[0].gsub(':', '').strip] = tds[1].strip
+  end
+end
+
+game_end_raw   = meta['Game End']
+game_length_raw = meta['Game Length']
+  
   # ---------- Status ----------
 scheduled_start = nil
 begin
@@ -109,8 +122,9 @@ end
 now = Time.now
 
 has_final_indicator =
-  (doc.text =~ /\bFinal\b/i && doc.text !~ /not available/i)
-
+  (game_length_raw && game_length_raw.match?(/\d+:\d+/)) ||
+  (game_end_raw && !game_end_raw.empty?)
+  
 status =
   if doc.text.include?("This game is not available")
     "Upcoming"
