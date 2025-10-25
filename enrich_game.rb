@@ -195,9 +195,9 @@ end
 
 game_id = ARGV[0]
 game = nil
-if File.exist?("reign_game_ids.json")
+if File.exist?("reign_schedule.json")
   begin
-    games = JSON.parse(File.read("reign_game_ids.json"))
+    games = JSON.parse(File.read("reign_schedule.json"))
     game = games.find { |g| g["game_id"].to_s == game_id.to_s }
   rescue
     game = nil
