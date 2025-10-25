@@ -299,12 +299,13 @@
     "location": "Away",
     "status": "Live",
     "home_score": 1,
-    "away_score": 1,
+    "away_score": 2,
     "home_goals": [
       "B. Berard (K. Kudryavtsev, V. Kravtsov)"
     ],
     "away_goals": [
-      "A. Lee (J. Hughes, S. Bolduc)"
+      "A. Lee (J. Hughes, S. Bolduc)",
+      "T. Ward (G. Gawdin)"
     ],
     "result": null,
     "overtime_type": null,
