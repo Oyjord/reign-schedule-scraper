@@ -99,8 +99,31 @@ def parse_game_sheet(game_id, game = nil)
   end
 
   # ---------- Status ----------
-  has_scores = (home_score + away_score) > 0 || home_goals.any? || away_goals.any?
-  status = has_scores ? "Final" : "Upcoming"
+  # ---------- Status ----------
+scheduled_start = nil
+begin
+  scheduled_start = Time.parse(game["scheduled_start"]).utc if game && game["scheduled_start"]
+rescue
+  scheduled_start = nil
+end
+
+now = Time.now.utc
+
+has_final_indicator =
+  (doc.text =~ /\bFinal\b/i && doc.text !~ /not available/i)
+
+status =
+  if doc.text.include?("This game is not available")
+    "Upcoming"
+  elsif scheduled_start && now < scheduled_start
+    "Upcoming"
+  elsif has_final_indicator
+    "Final"
+  elsif scheduled_start && now >= scheduled_start
+    "Live"
+  else
+    "Upcoming"
+  end
 
   # ---------- OT/SO ----------
   normalize = ->(v) { v.to_s.gsub(/\u00A0/, '').strip }
