@@ -297,7 +297,7 @@
     "date": "Fri, Oct 24",
     "opponent": "Abbotsford",
     "location": "Away",
-    "status": "Live",
+    "status": "Final",
     "home_score": 2,
     "away_score": 5,
     "home_goals": [
@@ -311,7 +311,7 @@
       "A. Lee (F. Pinelli, T. Ward)",
       "G. Gawdin ( )"
     ],
-    "result": null,
+    "result": "W 5-2",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027839&lang_id=1",
     "scheduled_start": "2025-10-24T19:00:00-07:00"
