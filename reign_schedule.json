@@ -298,10 +298,11 @@
     "opponent": "Abbotsford",
     "location": "Away",
     "status": "Live",
-    "home_score": 1,
+    "home_score": 2,
     "away_score": 4,
     "home_goals": [
-      "B. Berard (K. Kudryavtsev, V. Kravtsov)"
+      "B. Berard (K. Kudryavtsev, V. Kravtsov)",
+      "M. MacEachern (C. Wouters, B. Berard)"
     ],
     "away_goals": [
       "A. Lee (J. Hughes, S. Bolduc)",
