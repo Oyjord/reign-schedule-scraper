@@ -251,7 +251,7 @@
     "date": "Fri, Oct 10",
     "opponent": "Tucson",
     "location": "Home",
-    "status": "Upcoming",
+    "status": "Live",
     "home_score": 4,
     "away_score": 5,
     "home_goals": [
@@ -277,7 +277,7 @@
     "date": "Fri, Oct 17",
     "opponent": "Henderson",
     "location": "Home",
-    "status": "Upcoming",
+    "status": "Live",
     "home_score": 0,
     "away_score": 2,
     "home_goals": [
@@ -297,7 +297,7 @@
     "date": "Fri, Oct 24",
     "opponent": "Abbotsford",
     "location": "Away",
-    "status": "Upcoming",
+    "status": "Live",
     "home_score": 1,
     "away_score": 1,
     "home_goals": [
@@ -943,7 +943,7 @@
     "date": "Sun, Oct 12",
     "opponent": "Tucson",
     "location": "Home",
-    "status": "Upcoming",
+    "status": "Live",
     "home_score": 4,
     "away_score": 2,
     "home_goals": [
@@ -966,7 +966,7 @@
     "date": "Sun, Oct 19",
     "opponent": "Colorado",
     "location": "Home",
-    "status": "Upcoming",
+    "status": "Live",
     "home_score": 3,
     "away_score": 2,
     "home_goals": [
