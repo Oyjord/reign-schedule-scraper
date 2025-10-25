@@ -251,7 +251,7 @@
     "date": "Fri, Oct 10",
     "opponent": "Tucson",
     "location": "Home",
-    "status": "Live",
+    "status": "Final",
     "home_score": 4,
     "away_score": 5,
     "home_goals": [
@@ -267,8 +267,8 @@
       "K. Rooney (S. Walker, A. Duda)",
       "S. Walker (S. Perunovich, M. Szuber)"
     ],
-    "result": null,
-    "overtime_type": null,
+    "result": "L(SO) 5-4",
+    "overtime_type": "SO",
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027778&lang_id=1",
     "scheduled_start": "2025-10-10T19:00:00-07:00"
   },
@@ -277,7 +277,7 @@
     "date": "Fri, Oct 17",
     "opponent": "Henderson",
     "location": "Home",
-    "status": "Live",
+    "status": "Final",
     "home_score": 0,
     "away_score": 2,
     "home_goals": [
@@ -287,7 +287,7 @@
       "T. Laczynski ( )",
       "R. Lavoie (L. Cormier, J. Davies)"
     ],
-    "result": null,
+    "result": "L 2-0",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027808&lang_id=1",
     "scheduled_start": "2025-10-17T19:00:00-07:00"
@@ -944,7 +944,7 @@
     "date": "Sun, Oct 12",
     "opponent": "Tucson",
     "location": "Home",
-    "status": "Live",
+    "status": "Final",
     "home_score": 4,
     "away_score": 2,
     "home_goals": [
@@ -957,7 +957,7 @@
       "K. Rooney (D. But, S. Walker)",
       "C. Hebig (B. McCartney, M. Kunc)"
     ],
-    "result": null,
+    "result": "W 4-2",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027800&lang_id=1",
     "scheduled_start": "2025-10-12T15:00:00-07:00"
@@ -967,7 +967,7 @@
     "date": "Sun, Oct 19",
     "opponent": "Colorado",
     "location": "Home",
-    "status": "Live",
+    "status": "Final",
     "home_score": 3,
     "away_score": 2,
     "home_goals": [
@@ -979,7 +979,7 @@
       "I. Ivan (J. Polin)",
       "D. Gushchin (W. Aamodt, J. Ahcan)"
     ],
-    "result": null,
+    "result": "W 3-2",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027830&lang_id=1",
     "scheduled_start": "2025-10-19T15:00:00-07:00"
