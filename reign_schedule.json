@@ -297,16 +297,16 @@
     "date": "Fri, Oct 24",
     "opponent": "Abbotsford",
     "location": "Away",
-    "status": "Upcoming",
+    "status": "Final",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
 
     ],
     "away_goals": [
-
+      "A. Lee (J. Hughes)"
     ],
-    "result": null,
+    "result": "W 1-0",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027839&lang_id=1",
     "scheduled_start": "2025-10-24T19:00:00-07:00"
