@@ -995,13 +995,14 @@
     "location": "Away",
     "status": "Live",
     "home_score": 1,
-    "away_score": 2,
+    "away_score": 3,
     "home_goals": [
       "V. Alriksson (J. Schuldt, T. Willander)"
     ],
     "away_goals": [
       "C. Guttman (K. Kirsanov, A. Thomas)",
-      "T. Ward (G. Gawdin)"
+      "T. Ward (G. Gawdin)",
+      "S. Bolduc (T. Ward, A. Lee)"
     ],
     "result": null,
     "overtime_type": null,
