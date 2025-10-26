@@ -124,13 +124,27 @@ now = Time.now
 has_final_indicator =
   (game_length_raw && game_length_raw.match?(/\d+:\d+/)) ||
   (game_end_raw && !game_end_raw.empty?)
-  
-status =
+
+# works but imperfect 
+# status =
+#   if doc.text.include?("This game is not available")
+#     "Upcoming"
+#   elsif scheduled_start && now < scheduled_start
+#     "Upcoming"
+#   elsif has_final_indicator
+#     "Final"
+#   elsif scheduled_start && now >= scheduled_start
+#     "Live"
+#   else
+#     "Upcoming"
+#   end
+
+  status =
   if doc.text.include?("This game is not available")
     "Upcoming"
   elsif scheduled_start && now < scheduled_start
     "Upcoming"
-  elsif has_final_indicator
+  elsif game_end_raw && !game_end_raw.strip.empty?
     "Final"
   elsif scheduled_start && now >= scheduled_start
     "Live"
