@@ -108,6 +108,8 @@ if meta_table
   end
 end
 
+game_status_raw = meta['Game Status']
+  
 game_end_raw   = meta['Game End']
 game_length_raw = meta['Game Length']
   
@@ -126,24 +128,27 @@ has_final_indicator =
   (game_end_raw && !game_end_raw.empty?)
 
 # works but imperfect 
-# status =
-#   if doc.text.include?("This game is not available")
-#     "Upcoming"
-#   elsif scheduled_start && now < scheduled_start
-#     "Upcoming"
-#   elsif has_final_indicator
-#     "Final"
-#   elsif scheduled_start && now >= scheduled_start
-#     "Live"
-#   else
-#     "Upcoming"
-#   end
+
+#  status =
+#  if doc.text.include?("This game is not available")
+ #   "Upcoming"
+ # elsif scheduled_start && now < scheduled_start
+ #   "Upcoming"
+ # elsif game_end_raw && !game_end_raw.strip.empty?
+ #   "Final"
+#  elsif scheduled_start && now >= scheduled_start
+ #   "Live"
+#  else
+ #   "Upcoming"
+#  end
 
   status =
   if doc.text.include?("This game is not available")
     "Upcoming"
   elsif scheduled_start && now < scheduled_start
     "Upcoming"
+  elsif game_status_raw&.downcase&.include?("unofficial final")
+    "Final"
   elsif game_end_raw && !game_end_raw.strip.empty?
     "Final"
   elsif scheduled_start && now >= scheduled_start
