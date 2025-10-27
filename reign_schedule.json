@@ -994,10 +994,11 @@
     "opponent": "Abbotsford",
     "location": "Away",
     "status": "Live",
-    "home_score": 1,
+    "home_score": 2,
     "away_score": 4,
     "home_goals": [
-      "V. Alriksson (J. Schuldt, T. Willander)"
+      "V. Alriksson (J. Schuldt, T. Willander)",
+      "S. Mynio (C. Wouters, D. Kambeitz)"
     ],
     "away_goals": [
       "C. Guttman (K. Kirsanov, A. Thomas)",
