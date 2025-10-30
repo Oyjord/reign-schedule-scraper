@@ -127,19 +127,20 @@ has_final_indicator =
   (game_length_raw && game_length_raw.match?(/\d+:\d+/)) ||
   (game_end_raw && !game_end_raw.empty?)
 
-# works but imperfect 
-
-#  status =
+#this is good just not reading "unoffical final" reimplement if problems in game
+  #  status =
 #  if doc.text.include?("This game is not available")
+#    "Upcoming"
+#  elsif scheduled_start && now < scheduled_start
  #   "Upcoming"
- # elsif scheduled_start && now < scheduled_start
- #   "Upcoming"
- # elsif game_end_raw && !game_end_raw.strip.empty?
- #   "Final"
+#  elsif game_status_raw&.downcase&.include?("Unofficial Final")
+#    "Final"
+#  elsif game_end_raw && !game_end_raw.strip.empty?
+#    "Final"
 #  elsif scheduled_start && now >= scheduled_start
- #   "Live"
+#    "Live"
 #  else
- #   "Upcoming"
+#    "Upcoming"
 #  end
 
   status =
@@ -147,7 +148,7 @@ has_final_indicator =
     "Upcoming"
   elsif scheduled_start && now < scheduled_start
     "Upcoming"
-  elsif game_status_raw&.downcase&.include?("Unofficial Final")
+  elsif game_status_raw&.downcase&.include?("unofficial final")
     "Final"
   elsif game_end_raw && !game_end_raw.strip.empty?
     "Final"
@@ -156,6 +157,7 @@ has_final_indicator =
   else
     "Upcoming"
   end
+
 
 # ---------- Debug (optional) ----------
 if game_id.to_s == "1027839"
