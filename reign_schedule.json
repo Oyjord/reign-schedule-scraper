@@ -1379,10 +1379,12 @@
     "opponent": "Henderson",
     "location": "Away",
     "status": "Live",
-    "home_score": 1,
+    "home_score": 3,
     "away_score": 2,
     "home_goals": [
-      "K. Uchacz (J. Megna, M. McLain)"
+      "K. Uchacz (J. Megna, M. McLain)",
+      "B. Hemmerling (T. Laczynski, J. Davies)",
+      "T. Uronen (J. Hallum, V. Kmec)"
     ],
     "away_goals": [
       "A. Jämsen (J. Hughes)",
