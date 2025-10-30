@@ -1378,14 +1378,14 @@
     "date": "Wed, Oct 29",
     "opponent": "Henderson",
     "location": "Away",
-    "status": "Upcoming",
+    "status": "Live",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
 
     ],
     "away_goals": [
-
+      "A. Jämsen ( )"
     ],
     "result": null,
     "overtime_type": null,
