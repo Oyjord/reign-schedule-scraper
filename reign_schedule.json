@@ -1380,12 +1380,13 @@
     "location": "Away",
     "status": "Live",
     "home_score": 0,
-    "away_score": 1,
+    "away_score": 2,
     "home_goals": [
 
     ],
     "away_goals": [
-      "A. Jämsen ( )"
+      "A. Jämsen (J. Hughes)",
+      "J. Wright (A. Lee, K. Connors)"
     ],
     "result": null,
     "overtime_type": null,
