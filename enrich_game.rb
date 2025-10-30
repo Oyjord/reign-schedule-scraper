@@ -147,7 +147,7 @@ has_final_indicator =
     "Upcoming"
   elsif scheduled_start && now < scheduled_start
     "Upcoming"
-  elsif game_status_raw&.downcase&.include?("unofficial final")
+  elsif game_status_raw&.downcase&.include?("Unofficial Final")
     "Final"
   elsif game_end_raw && !game_end_raw.strip.empty?
     "Final"
