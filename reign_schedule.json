@@ -1378,7 +1378,7 @@
     "date": "Wed, Oct 29",
     "opponent": "Henderson",
     "location": "Away",
-    "status": "Live",
+    "status": "Final",
     "home_score": 6,
     "away_score": 2,
     "home_goals": [
@@ -1393,7 +1393,7 @@
       "A. Jämsen (J. Hughes)",
       "J. Wright (A. Lee, K. Connors)"
     ],
-    "result": null,
+    "result": "L 6-2",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027879&lang_id=1",
     "scheduled_start": "2025-10-29T19:00:00-07:00"
