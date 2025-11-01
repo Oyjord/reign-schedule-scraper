@@ -321,14 +321,14 @@
     "date": "Fri, Oct 31",
     "opponent": "San Jose",
     "location": "Away",
-    "status": "Upcoming",
+    "status": "Live",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
 
     ],
     "away_goals": [
-
+      "T. Ward (M. Chromiak, G. Gawdin)"
     ],
     "result": null,
     "overtime_type": null,
