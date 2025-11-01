@@ -3,7 +3,7 @@ name: Enrich Reign Schedule
 on:
   workflow_dispatch:
   schedule:
-   - cron: '*/10 20-23 * * *'  # 1 PM to 4 PM PT
+   - cron: '*/10 22-23 * * *'  # 3 PM to 4 PM PT
    - cron: '*/10 0-5 * * *'    # 5 PM to 10 PM PT
 
 
