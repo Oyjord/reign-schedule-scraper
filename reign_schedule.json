@@ -322,10 +322,10 @@
     "opponent": "San Jose",
     "location": "Away",
     "status": "Live",
-    "home_score": 0,
+    "home_score": 1,
     "away_score": 1,
     "home_goals": [
-
+      "C. White (L. Cagnoni)"
     ],
     "away_goals": [
       "T. Ward (M. Chromiak, G. Gawdin)"
