@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
    - cron: '*/10 20-23 * * *'  # 1 PM to 4 PM PT
-   - cron: '*/10 0-4 * * *'    # 5 PM to 9 PM PT
+   - cron: '*/10 0-5 * * *'    # 5 PM to 10 PM PT
 
 
 jobs:
