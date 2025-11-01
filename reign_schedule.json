@@ -321,7 +321,7 @@
     "date": "Fri, Oct 31",
     "opponent": "San Jose",
     "location": "Away",
-    "status": "Live",
+    "status": "Final",
     "home_score": 1,
     "away_score": 6,
     "home_goals": [
@@ -335,7 +335,7 @@
       "J. Dvořák (T. Ward, S. Bolduc)",
       "K. Connors ( )"
     ],
-    "result": null,
+    "result": "W 6-1",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027890&lang_id=1",
     "scheduled_start": "2025-10-31T19:00:00-07:00"
