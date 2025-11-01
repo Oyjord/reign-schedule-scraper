@@ -323,7 +323,7 @@
     "location": "Away",
     "status": "Live",
     "home_score": 1,
-    "away_score": 5,
+    "away_score": 6,
     "home_goals": [
       "O. Wahlstrom (C. White, L. Cagnoni)"
     ],
@@ -332,7 +332,8 @@
       "A. Jämsen (K. Ziemmer, A. Booth)",
       "S. Bolduc ( )",
       "J. Hughes (K. Ziemmer, A. Booth)",
-      "J. Dvořák (T. Ward, S. Bolduc)"
+      "J. Dvořák (T. Ward, S. Bolduc)",
+      "K. Connors ( )"
     ],
     "result": null,
     "overtime_type": null,
