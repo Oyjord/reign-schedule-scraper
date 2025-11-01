@@ -323,14 +323,16 @@
     "location": "Away",
     "status": "Live",
     "home_score": 1,
-    "away_score": 3,
+    "away_score": 5,
     "home_goals": [
       "O. Wahlstrom (C. White, L. Cagnoni)"
     ],
     "away_goals": [
       "T. Ward (M. Chromiak, G. Gawdin)",
       "A. Jämsen (K. Ziemmer, A. Booth)",
-      "S. Bolduc ( )"
+      "S. Bolduc ( )",
+      "J. Hughes (K. Ziemmer, A. Booth)",
+      "J. Dvořák (T. Ward, S. Bolduc)"
     ],
     "result": null,
     "overtime_type": null,
