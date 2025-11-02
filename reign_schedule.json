@@ -689,13 +689,13 @@
     "location": "Away",
     "status": "Live",
     "home_score": 2,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
       "J. Thompson (E. Cardwell, L. Carlsson)",
       "Z. Ostapchuk (J. Huntington)"
     ],
     "away_goals": [
-
+      "M. Chromiak (G. Gawdin, J. Hicketts)"
     ],
     "result": null,
     "overtime_type": null,
