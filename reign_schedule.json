@@ -688,10 +688,11 @@
     "opponent": "San Jose",
     "location": "Away",
     "status": "Live",
-    "home_score": 1,
+    "home_score": 2,
     "away_score": 0,
     "home_goals": [
-      "J. Thompson (E. Cardwell, L. Carlsson)"
+      "J. Thompson (E. Cardwell, L. Carlsson)",
+      "Z. Ostapchuk (J. Huntington)"
     ],
     "away_goals": [
 
