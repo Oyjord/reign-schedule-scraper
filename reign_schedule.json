@@ -687,20 +687,20 @@
     "date": "Sat, Nov 1",
     "opponent": "San Jose",
     "location": "Away",
-    "status": "Live",
+    "status": "Final",
     "home_score": 4,
     "away_score": 2,
     "home_goals": [
       "J. Thompson (E. Cardwell, L. Carlsson)",
       "Z. Ostapchuk (J. Huntington)",
-      "Q. Musty (C. Lund, L. Cagnoni)",
+      "Q. Musty (C. White, C. Lund)",
       "P. Regenda (F. Bystedt)"
     ],
     "away_goals": [
       "M. Chromiak (G. Gawdin, J. Hicketts)",
       "T. Ward (F. Pinelli, C. Guttman)"
     ],
-    "result": null,
+    "result": "L 4-2",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027904&lang_id=1",
     "scheduled_start": "2025-11-01T18:00:00-07:00"
