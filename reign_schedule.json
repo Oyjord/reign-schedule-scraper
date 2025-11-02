@@ -688,14 +688,17 @@
     "opponent": "San Jose",
     "location": "Away",
     "status": "Live",
-    "home_score": 2,
-    "away_score": 1,
+    "home_score": 4,
+    "away_score": 2,
     "home_goals": [
       "J. Thompson (E. Cardwell, L. Carlsson)",
-      "Z. Ostapchuk (J. Huntington)"
+      "Z. Ostapchuk (J. Huntington)",
+      "Q. Musty (C. Lund, L. Cagnoni)",
+      "P. Regenda (F. Bystedt)"
     ],
     "away_goals": [
-      "M. Chromiak (G. Gawdin, J. Hicketts)"
+      "M. Chromiak (G. Gawdin, J. Hicketts)",
+      "T. Ward (F. Pinelli, C. Guttman)"
     ],
     "result": null,
     "overtime_type": null,
