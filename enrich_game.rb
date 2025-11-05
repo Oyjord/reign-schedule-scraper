@@ -177,11 +177,24 @@ end
 
   overtime_type = nil
   if status == "Final"
-    ot_goals = ot_away.to_i + ot_home.to_i
-    so_goals = so_away.to_i + so_home.to_i
-    overtime_type = "OT" if ot_goals > 0
-    overtime_type = "SO" if so_goals > 0
+  #  ot_goals = ot_away.to_i + ot_home.to_i
+   # so_goals = so_away.to_i + so_home.to_i
+   # overtime_type = "OT" if ot_goals > 0
+  #  overtime_type = "SO" if so_goals > 0
+     ot_goals = ot_away.to_i + ot_home.to_i
+     so_goals = so_away.to_i + so_home.to_i
+
+     overtime_type =
+       if ot_goals > 0
+         "OT"
+       elsif so_goals > 0
+         "SO"
+       else
+         nil
+       end
   end
+
+    
 
   # ---------- Result ----------
   result = nil
