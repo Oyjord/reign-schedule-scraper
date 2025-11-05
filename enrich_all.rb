@@ -9,9 +9,29 @@ existing_by_id = {}
 existing.each { |g| existing_by_id[g["game_id"]] = g }
 
 # --- Process each game ---
+#game_ids.each do |game|
+#  game_id = game["game_id"]
+ # puts "🔍 Enriching game #{game_id}..."
+
+# --- Process each game ---
 game_ids.each do |game|
   game_id = game["game_id"]
+  existing_game = existing_by_id[game_id]
+
+  if existing_game &&
+     existing_game["status"] == "Final" &&
+     existing_game["home_score"].is_a?(Integer) &&
+     existing_game["away_score"].is_a?(Integer) &&
+     existing_game["home_goals"].is_a?(Array) &&
+     existing_game["away_goals"].is_a?(Array) &&
+     existing_game["result"] &&
+     existing_game["overtime_type"]
+    puts "⏭️ Skipped #{game_id} — already enriched"
+    next
+  end
+
   puts "🔍 Enriching game #{game_id}..."
+  # ... continue with enrichment logic
 
   # Run enrich_game.rb for this game
   enriched_output = `ruby enrich_game.rb #{game_id}`
