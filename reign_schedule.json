@@ -1123,12 +1123,12 @@
     "location": "Home",
     "status": "Live",
     "home_score": 1,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
       "A. Thomas (F. Pinelli, J. Millar)"
     ],
     "away_goals": [
-
+      "I. Chernyshov ( )"
     ],
     "result": null,
     "overtime_type": null,
