@@ -1121,7 +1121,7 @@
     "date": "Tue, Nov 4",
     "opponent": "San Jose",
     "location": "Home",
-    "status": "Live",
+    "status": "Final",
     "home_score": 2,
     "away_score": 1,
     "home_goals": [
@@ -1131,8 +1131,8 @@
     "away_goals": [
       "I. Chernyshov ( )"
     ],
-    "result": null,
-    "overtime_type": null,
+    "result": "W(SO) 2-1",
+    "overtime_type": "SO",
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027918&lang_id=1",
     "scheduled_start": "2025-11-04T19:00:00-08:00"
   },
