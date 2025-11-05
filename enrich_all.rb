@@ -19,13 +19,13 @@ game_ids.each do |game|
   existing_game = existing_by_id[game_id]
 
   if existing_game &&
-     existing_game["status"] == "Final" &&
-     existing_game["home_score"].is_a?(Integer) &&
-     existing_game["away_score"].is_a?(Integer) &&
-     existing_game["home_goals"].is_a?(Array) &&
-     existing_game["away_goals"].is_a?(Array) &&
-     existing_game["result"] &&
-     existing_game["overtime_type"]
+   existing_game["status"] == "Final" &&
+   existing_game["home_score"].is_a?(Integer) &&
+   existing_game["away_score"].is_a?(Integer) &&
+   existing_game["home_goals"].is_a?(Array) &&
+   existing_game["away_goals"].is_a?(Array) &&
+   existing_game["result"].is_a?(String) &&
+   existing_game["result"].match?(/\d+-\d+/)
     puts "⏭️ Skipped #{game_id} — already enriched"
     next
   end
