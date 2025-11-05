@@ -1122,10 +1122,11 @@
     "opponent": "San Jose",
     "location": "Home",
     "status": "Live",
-    "home_score": 1,
+    "home_score": 2,
     "away_score": 1,
     "home_goals": [
-      "A. Thomas (F. Pinelli, J. Millar)"
+      "A. Thomas (F. Pinelli, J. Millar)",
+      "T. Ward (A. Thomas)"
     ],
     "away_goals": [
       "I. Chernyshov ( )"
