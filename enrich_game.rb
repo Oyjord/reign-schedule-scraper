@@ -212,7 +212,7 @@ end
         ontario_score > opponent_score ? "W" : "L"
       end
 
-    result = "#{prefix} #{[ontario_score, opponent_score].max}-#{[ontario_score, opponent_score].min}"
+    result = "#{prefix} #{away_score}-#{home_score}"
   end
 
   {
