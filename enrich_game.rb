@@ -158,7 +158,28 @@ has_final_indicator =
     "Upcoming"
   end
 
+# ---------- Game time (only if Live) ----------
+game_time = nil
+if status == "Live"
+  raw = meta["Game Status"]
 
+  if raw.nil? || raw.strip.empty?
+    # Fallback: scan for nested <tr> with <b>Game Status:&nbsp;</b>
+    status_row = doc.css('tr').find do |tr|
+      label_cell = tr.css('td')[0]
+      label_cell && label_cell.at_css('b')&.text&.gsub("\u00A0", ' ')&.strip == "Game Status:"
+    end
+
+    if status_row
+      value_cell = status_row.css('td')[1]
+      raw = value_cell&.text&.gsub("\u00A0", ' ')&.strip
+    end
+  end
+
+  game_time = raw.strip unless raw.nil? || raw.strip.empty?
+end
+
+  
 # ---------- Debug (optional) ----------
 if game_id.to_s == "1027839"
   warn "🧪 scheduled_start: #{scheduled_start}"
@@ -221,6 +242,7 @@ end
     "opponent" => game["opponent"],
     "location" => game["location"],
     "status" => status,
+    "game_time" => game_time,
     "home_score" => home_score,
     "away_score" => away_score,
     "home_goals" => home_goals,
