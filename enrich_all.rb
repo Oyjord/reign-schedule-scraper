@@ -63,6 +63,7 @@ existing_by_id[game_id] = {
   "opponent" => game["opponent"],
   "location" => game["location"],
   "status" => data["status"],
+  "game_time" => data["game_time"],
   "home_score" => data["home_score"],
   "away_score" => data["away_score"],
   "home_goals" => data["home_goals"],
