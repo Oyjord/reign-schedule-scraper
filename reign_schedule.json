@@ -5,6 +5,7 @@
     "opponent": "Coachella Valley",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -24,6 +25,7 @@
     "opponent": "San Diego",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -43,6 +45,7 @@
     "opponent": "Colorado",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -62,6 +65,7 @@
     "opponent": "Bakersfield",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -81,6 +85,7 @@
     "opponent": "Coachella Valley",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -100,6 +105,7 @@
     "opponent": "Henderson",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -119,6 +125,7 @@
     "opponent": "Coachella Valley",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -138,6 +145,7 @@
     "opponent": "Iowa",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -157,6 +165,7 @@
     "opponent": "Tucson",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -176,6 +185,7 @@
     "opponent": "Henderson",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -195,6 +205,7 @@
     "opponent": "Bakersfield",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -214,6 +225,7 @@
     "opponent": "Henderson",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -233,6 +245,7 @@
     "opponent": "San Diego",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -346,6 +359,7 @@
     "opponent": "Abbotsford",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -365,6 +379,7 @@
     "opponent": "Coachella Valley",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -384,6 +399,7 @@
     "opponent": "Abbotsford",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -403,6 +419,7 @@
     "opponent": "Bakersfield",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -422,6 +439,7 @@
     "opponent": "Colorado",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -441,6 +459,7 @@
     "opponent": "San Jose",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -460,6 +479,7 @@
     "opponent": "San Jose",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -479,6 +499,7 @@
     "opponent": "Calgary",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -498,6 +519,7 @@
     "opponent": "Abbotsford",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -517,6 +539,7 @@
     "opponent": "Tucson",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -536,6 +559,7 @@
     "opponent": "Bakersfield",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -555,6 +579,7 @@
     "opponent": "Texas",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -574,6 +599,7 @@
     "opponent": "Colorado",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -593,6 +619,7 @@
     "opponent": "Coachella Valley",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -612,6 +639,7 @@
     "opponent": "San Diego",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -631,6 +659,7 @@
     "opponent": "Coachella Valley",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -650,6 +679,7 @@
     "opponent": "Iowa",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -669,6 +699,7 @@
     "opponent": "Tucson",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -711,6 +742,7 @@
     "opponent": "San Jose",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -730,6 +762,7 @@
     "opponent": "Bakersfield",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -749,6 +782,7 @@
     "opponent": "San Diego",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -768,6 +802,7 @@
     "opponent": "San Jose",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -787,6 +822,7 @@
     "opponent": "Calgary",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -806,6 +842,7 @@
     "opponent": "Coachella Valley",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -825,6 +862,7 @@
     "opponent": "Tucson",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -844,6 +882,7 @@
     "opponent": "Bakersfield",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -863,6 +902,7 @@
     "opponent": "Texas",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -882,6 +922,7 @@
     "opponent": "Iowa",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -901,6 +942,7 @@
     "opponent": "Bakersfield",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -920,6 +962,7 @@
     "opponent": "Henderson",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -939,6 +982,7 @@
     "opponent": "Texas",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1027,6 +1071,7 @@
     "opponent": "Colorado",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1046,6 +1091,7 @@
     "opponent": "Henderson",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1065,6 +1111,7 @@
     "opponent": "Texas",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1084,6 +1131,7 @@
     "opponent": "Colorado",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1103,6 +1151,7 @@
     "opponent": "Calgary",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1142,6 +1191,7 @@
     "opponent": "Coachella Valley",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1161,6 +1211,7 @@
     "opponent": "Bakersfield",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1180,6 +1231,7 @@
     "opponent": "San Jose",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1199,6 +1251,7 @@
     "opponent": "Abbotsford",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1218,6 +1271,7 @@
     "opponent": "Tucson",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1237,6 +1291,7 @@
     "opponent": "Colorado",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1256,6 +1311,7 @@
     "opponent": "Abbotsford",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1275,6 +1331,7 @@
     "opponent": "Iowa",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1294,6 +1351,7 @@
     "opponent": "Colorado",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1313,6 +1371,7 @@
     "opponent": "Abbotsford",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1332,6 +1391,7 @@
     "opponent": "Henderson",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1351,6 +1411,7 @@
     "opponent": "Tucson",
     "location": "Home",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
@@ -1370,6 +1431,7 @@
     "opponent": "Calgary",
     "location": "Away",
     "status": "Upcoming",
+    "game_time": null,
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
