@@ -244,8 +244,8 @@
     "date": "Fri, Nov 7",
     "opponent": "San Diego",
     "location": "Away",
-    "status": "Live",
-    "game_time": "0:00 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 6,
     "away_score": 4,
     "home_goals": [
@@ -262,7 +262,7 @@
       "J. Hicketts (M. Chromiak, A. Thomas)",
       "M. Chromiak ( )"
     ],
-    "result": null,
+    "result": "L 4-6",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027934&lang_id=1",
     "scheduled_start": "2025-11-07T19:00:00-08:00"
