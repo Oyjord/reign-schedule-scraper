@@ -245,20 +245,22 @@
     "opponent": "San Diego",
     "location": "Away",
     "status": "Live",
-    "game_time": "5:47 3rd",
-    "home_score": 5,
-    "away_score": 3,
+    "game_time": "4:07 3rd",
+    "home_score": 6,
+    "away_score": 4,
     "home_goals": [
       "J. Caulfield (T. Washe)",
       "N. Myatovic (R. Carpenter)",
       "N. Gaucher (J. Caulfield, N. Brouillard)",
       "T. Washe (N. Myatovic, J. Caulfield)",
-      "J. Bailey ( )"
+      "J. Bailey ( )",
+      "T. Washe (J. Caulfield, S. Solberg)"
     ],
     "away_goals": [
       "M. Chromiak (A. Thomas, A. Jämsen)",
       "K. Connors (M. Chromiak, J. Hicketts)",
-      "J. Hicketts (M. Chromiak, A. Thomas)"
+      "J. Hicketts (M. Chromiak, A. Thomas)",
+      "M. Chromiak ( )"
     ],
     "result": null,
     "overtime_type": null,
