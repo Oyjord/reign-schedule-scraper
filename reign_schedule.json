@@ -789,8 +789,8 @@
     "date": "Sat, Nov 8",
     "opponent": "San Diego",
     "location": "Home",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 4,
     "away_score": 3,
     "home_goals": [
@@ -804,8 +804,8 @@
       "N. Warren ( )",
       "T. Washe (M. Phillips, R. Carpenter)"
     ],
-    "result": null,
-    "overtime_type": null,
+    "result": "W(OT) 3-4",
+    "overtime_type": "OT",
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027948&lang_id=1",
     "scheduled_start": "2025-11-08T18:00:00-08:00"
   },
