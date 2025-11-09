@@ -790,16 +790,16 @@
     "opponent": "San Diego",
     "location": "Home",
     "status": "Live",
-    "game_time": "13:13 2nd",
+    "game_time": "12:09 2nd",
     "home_score": 3,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
       "G. Gawdin (A. Lee)",
       "G. Gawdin (C. Guttman, J. Dvořák)",
       "A. Jämsen (K. Ziemmer, J. Hughes)"
     ],
     "away_goals": [
-
+      "J. Myšák (S. Pastujov, R. McKeown)"
     ],
     "result": null,
     "overtime_type": null,
