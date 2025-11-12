@@ -1163,8 +1163,8 @@
     "date": "Tue, Nov 11",
     "opponent": "Calgary",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 1,
     "away_score": 5,
     "home_goals": [
@@ -1177,7 +1177,7 @@
       "T. Ward (A. Thomas)",
       "K. Ziemmer (A. Jämsen, J. Hughes)"
     ],
-    "result": null,
+    "result": "W 5-1",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027958&lang_id=1",
     "scheduled_start": "2025-11-11T17:00:00-08:00"
