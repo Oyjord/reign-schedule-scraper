@@ -1164,17 +1164,18 @@
     "opponent": "Calgary",
     "location": "Away",
     "status": "Live",
-    "game_time": "14:20 3rd",
+    "game_time": "4:58 3rd",
     "home_score": 1,
-    "away_score": 4,
+    "away_score": 5,
     "home_goals": [
       "D. Hunt (R. Kerins, H. Brzustewicz)"
     ],
     "away_goals": [
       "K. Connors (J. Wright, F. Pinelli)",
       "C. Guttman (G. Gawdin, A. Lee)",
-      "J. Wright ( )",
-      "T. Ward (A. Thomas)"
+      "J. Wright (J. Hicketts, K. Connors)",
+      "T. Ward (A. Thomas)",
+      "K. Ziemmer (A. Jämsen, J. Hughes)"
     ],
     "result": null,
     "overtime_type": null,
