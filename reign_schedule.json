@@ -1448,15 +1448,16 @@
     "opponent": "Calgary",
     "location": "Away",
     "status": "Live",
-    "game_time": "12:50 3rd",
+    "game_time": "12:24 3rd",
     "home_score": 2,
-    "away_score": 1,
+    "away_score": 2,
     "home_goals": [
       "M. Frk (D. Hunt, C. King)",
       "C. Bishop (D. Silye)"
     ],
     "away_goals": [
-      "A. Thomas (M. Chromiak)"
+      "A. Thomas (M. Chromiak)",
+      "J. Dvořák (F. Pinelli, K. Connors)"
     ],
     "result": null,
     "overtime_type": null,
