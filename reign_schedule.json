@@ -1447,8 +1447,8 @@
     "date": "Wed, Nov 12",
     "opponent": "Calgary",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 3,
     "away_score": 2,
     "home_goals": [
@@ -1460,7 +1460,7 @@
       "A. Thomas (M. Chromiak)",
       "J. Dvořák (F. Pinelli, K. Connors)"
     ],
-    "result": null,
+    "result": "L 2-3",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027963&lang_id=1",
     "scheduled_start": "2025-11-12T18:00:00-08:00"
