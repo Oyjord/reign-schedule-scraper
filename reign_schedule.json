@@ -1448,11 +1448,12 @@
     "opponent": "Calgary",
     "location": "Away",
     "status": "Live",
-    "game_time": "Intermission",
-    "home_score": 1,
+    "game_time": "11:47 2nd",
+    "home_score": 2,
     "away_score": 0,
     "home_goals": [
-      "M. Frk (D. Hunt, M. Gridin)"
+      "M. Frk (D. Hunt, C. King)",
+      "C. Bishop (D. Silye)"
     ],
     "away_goals": [
 
