@@ -1449,11 +1449,12 @@
     "location": "Away",
     "status": "Live",
     "game_time": "12:24 3rd",
-    "home_score": 2,
+    "home_score": 3,
     "away_score": 2,
     "home_goals": [
       "M. Frk (D. Hunt, C. King)",
-      "C. Bishop (D. Silye)"
+      "C. Bishop (D. Silye)",
+      "A. Suniev (W. Strömgren, H. Brzustewicz)"
     ],
     "away_goals": [
       "A. Thomas (M. Chromiak)",
