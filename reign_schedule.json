@@ -750,16 +750,17 @@
     "opponent": "San Jose",
     "location": "Away",
     "status": "Live",
-    "game_time": "15:31 3rd",
+    "game_time": "12:35 3rd",
     "home_score": 2,
-    "away_score": 2,
+    "away_score": 3,
     "home_goals": [
       "L. Carlsson (K. Halttunen, P. Regenda)",
       "F. Bystedt (Q. Musty, L. Cagnoni)"
     ],
     "away_goals": [
       "M. Chromiak (A. Jämsen, A. Thomas)",
-      "A. Lee (G. Gawdin, K. Connors)"
+      "A. Lee (G. Gawdin, K. Connors)",
+      "A. Lee (G. Gawdin, C. Guttman)"
     ],
     "result": null,
     "overtime_type": null,
