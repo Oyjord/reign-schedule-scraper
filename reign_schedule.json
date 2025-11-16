@@ -750,13 +750,14 @@
     "opponent": "San Jose",
     "location": "Away",
     "status": "Live",
-    "game_time": "5:32 3rd",
-    "home_score": 3,
+    "game_time": "4:00 3rd",
+    "home_score": 4,
     "away_score": 3,
     "home_goals": [
       "L. Carlsson (K. Halttunen, P. Regenda)",
       "F. Bystedt (Q. Musty, L. Cagnoni)",
-      "L. Cagnoni (C. Lund, C. White)"
+      "L. Cagnoni (C. Lund, C. White)",
+      "C. White (E. Cardwell)"
     ],
     "away_goals": [
       "M. Chromiak (A. Jämsen, A. Thomas)",
