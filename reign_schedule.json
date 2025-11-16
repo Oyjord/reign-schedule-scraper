@@ -749,8 +749,8 @@
     "date": "Sat, Nov 15",
     "opponent": "San Jose",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 4,
     "away_score": 3,
     "home_goals": [
@@ -764,7 +764,7 @@
       "A. Lee (G. Gawdin, K. Connors)",
       "A. Lee (G. Gawdin, C. Guttman)"
     ],
-    "result": null,
+    "result": "L 3-4",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1027992&lang_id=1",
     "scheduled_start": "2025-11-15T18:00:00-08:00"
