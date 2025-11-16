@@ -750,11 +750,12 @@
     "opponent": "San Jose",
     "location": "Away",
     "status": "Live",
-    "game_time": "6:26 1st",
-    "home_score": 1,
+    "game_time": "1:52 1st",
+    "home_score": 2,
     "away_score": 0,
     "home_goals": [
-      "L. Carlsson (K. Halttunen, P. Regenda)"
+      "L. Carlsson (K. Halttunen, P. Regenda)",
+      "F. Bystedt (Q. Musty, L. Cagnoni)"
     ],
     "away_goals": [
 
