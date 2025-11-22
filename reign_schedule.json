@@ -205,16 +205,17 @@
     "opponent": "Bakersfield",
     "location": "Home",
     "status": "Live",
-    "game_time": "1:38 3rd",
+    "game_time": "Unofficial Final",
     "home_score": 3,
-    "away_score": 0,
+    "away_score": 2,
     "home_goals": [
       "T. Ward (A. Thomas, M. Chromiak)",
       "K. Connors (A. Lee)",
       "J. Wright (A. Lee, K. Connors)"
     ],
     "away_goals": [
-
+      "V. Marjala (M. Millman, I. Howard)",
+      "Q. Hutson (I. Howard, V. Marjala)"
     ],
     "result": null,
     "overtime_type": null,
