@@ -204,8 +204,8 @@
     "date": "Fri, Nov 21",
     "opponent": "Bakersfield",
     "location": "Home",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 3,
     "away_score": 2,
     "home_goals": [
@@ -217,7 +217,7 @@
       "V. Marjala (M. Millman, I. Howard)",
       "Q. Hutson (I. Howard, V. Marjala)"
     ],
-    "result": null,
+    "result": "W 2-3",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028016&lang_id=1",
     "scheduled_start": "2025-11-21T19:00:00-08:00"
