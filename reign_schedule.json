@@ -778,16 +778,17 @@
     "opponent": "Bakersfield",
     "location": "Away",
     "status": "Live",
-    "game_time": "1:57 3rd",
+    "game_time": "2:07 OT",
     "home_score": 2,
-    "away_score": 2,
+    "away_score": 3,
     "home_goals": [
       "R. Stillman (I. Howard, J. Samanski)",
       "M. Jones ( )"
     ],
     "away_goals": [
       "T. Ward (M. Chromiak, K. Burroughs)",
-      "C. Guttman ( )"
+      "C. Guttman ( )",
+      "J. Wright ( )"
     ],
     "result": null,
     "overtime_type": null,
