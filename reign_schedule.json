@@ -227,8 +227,8 @@
     "date": "Fri, Nov 28",
     "opponent": "Henderson",
     "location": "Home",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 4,
     "away_score": 3,
     "home_goals": [
@@ -242,7 +242,7 @@
       "T. Laczynski (J. Røndbjerg, L. Johansen)",
       "T. Laczynski ( )"
     ],
-    "result": null,
+    "result": "W 3-4",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028058&lang_id=1",
     "scheduled_start": "2025-11-28T19:00:00-08:00"
