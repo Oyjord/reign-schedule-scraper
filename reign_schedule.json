@@ -228,12 +228,13 @@
     "opponent": "Henderson",
     "location": "Home",
     "status": "Live",
-    "game_time": "5:21 3rd",
-    "home_score": 2,
+    "game_time": "2:00 3rd",
+    "home_score": 3,
     "away_score": 3,
     "home_goals": [
       "A. Lee (C. Guttman, S. Bolduc)",
-      "T. Ward (J. Hicketts, M. Chromiak)"
+      "T. Ward (J. Hicketts, M. Chromiak)",
+      "A. Booth (K. Burroughs, M. Chromiak)"
     ],
     "away_goals": [
       "M. Sapovaliv (T. Connelly, K. Uchacz)",
