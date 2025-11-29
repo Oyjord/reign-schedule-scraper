@@ -228,15 +228,16 @@
     "opponent": "Henderson",
     "location": "Home",
     "status": "Live",
-    "game_time": "10:53 2nd",
+    "game_time": "7:04 2nd",
     "home_score": 2,
-    "away_score": 1,
+    "away_score": 2,
     "home_goals": [
       "A. Lee (C. Guttman, S. Bolduc)",
       "T. Ward (J. Hicketts, M. Chromiak)"
     ],
     "away_goals": [
-      "M. Sapovaliv (T. Connelly, K. Uchacz)"
+      "M. Sapovaliv (T. Connelly, K. Uchacz)",
+      "T. Laczynski (J. Røndbjerg, L. Johansen)"
     ],
     "result": null,
     "overtime_type": null,
