@@ -1011,14 +1011,15 @@
     "opponent": "Texas",
     "location": "Home",
     "status": "Live",
-    "game_time": "8:53 2nd",
+    "game_time": "Intermission",
     "home_score": 1,
-    "away_score": 1,
+    "away_score": 2,
     "home_goals": [
       "C. Guttman (G. Gawdin)"
     ],
     "away_goals": [
-      "A. Shlaine (C. Hughes, G. White)"
+      "A. Shlaine (C. Hughes, G. White)",
+      "A. Shlaine (C. Hughes, S. Tuomaala)"
     ],
     "result": null,
     "overtime_type": null,
