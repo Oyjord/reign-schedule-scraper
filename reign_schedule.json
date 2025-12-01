@@ -1010,8 +1010,8 @@
     "date": "Sun, Nov 30",
     "opponent": "Texas",
     "location": "Home",
-    "status": "Live",
-    "game_time": "3:05 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 1,
     "away_score": 4,
     "home_goals": [
@@ -1023,7 +1023,7 @@
       "K. Lind ( )",
       "M. Seminoff (A. Shlaine, M. Karow)"
     ],
-    "result": null,
+    "result": "L 4-1",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028081&lang_id=1",
     "scheduled_start": "2025-11-30T17:00:00-08:00"
