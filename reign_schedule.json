@@ -515,13 +515,14 @@
     "opponent": "Calgary",
     "location": "Home",
     "status": "Live",
-    "game_time": "19:06 2nd",
-    "home_score": 3,
+    "game_time": "7:25 2nd",
+    "home_score": 4,
     "away_score": 1,
     "home_goals": [
       "K. Kirsanov (A. Lee, K. Connors)",
       "A. Lee (C. Guttman, S. Bolduc)",
-      "M. Chromiak (T. Ward, S. Bolduc)"
+      "M. Chromiak (T. Ward, S. Bolduc)",
+      "K. Kirsanov (S. Bolduc, F. Pinelli)"
     ],
     "away_goals": [
       "D. Miromanov ( )"
