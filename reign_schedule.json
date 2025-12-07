@@ -515,11 +515,12 @@
     "opponent": "Calgary",
     "location": "Home",
     "status": "Live",
-    "game_time": "12:54 1st",
-    "home_score": 1,
+    "game_time": "8:52 1st",
+    "home_score": 2,
     "away_score": 1,
     "home_goals": [
-      "K. Kirsanov (A. Lee, K. Connors)"
+      "K. Kirsanov (A. Lee, K. Connors)",
+      "A. Lee (C. Guttman, S. Bolduc)"
     ],
     "away_goals": [
       "D. Miromanov ( )"
