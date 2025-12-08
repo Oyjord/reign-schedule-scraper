@@ -856,14 +856,14 @@
     "opponent": "Calgary",
     "location": "Home",
     "status": "Live",
-    "game_time": "19:07 2nd",
+    "game_time": "14:56 2nd",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
 
     ],
     "away_goals": [
-
+      "A. Suniev (D. Miromanov, S. Morton)"
     ],
     "result": null,
     "overtime_type": null,
