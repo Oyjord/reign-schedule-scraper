@@ -856,11 +856,12 @@
     "opponent": "Calgary",
     "location": "Home",
     "status": "Live",
-    "game_time": "5:00 OT",
-    "home_score": 1,
+    "game_time": "Unofficial Final",
+    "home_score": 2,
     "away_score": 1,
     "home_goals": [
-      "A. Lee (K. Connors, J. Wright)"
+      "A. Lee (K. Connors, J. Wright)",
+      "J. Hicketts (C. Guttman, A. Booth)"
     ],
     "away_goals": [
       "A. Suniev (D. Miromanov, S. Morton)"
