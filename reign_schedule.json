@@ -855,8 +855,8 @@
     "date": "Sun, Dec 7",
     "opponent": "Calgary",
     "location": "Home",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 2,
     "away_score": 1,
     "home_goals": [
@@ -866,8 +866,8 @@
     "away_goals": [
       "A. Suniev (D. Miromanov, S. Morton)"
     ],
-    "result": null,
-    "overtime_type": null,
+    "result": "W(OT) 1-2",
+    "overtime_type": "OT",
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028121&lang_id=1",
     "scheduled_start": "2025-12-07T15:00:00-08:00"
   },
