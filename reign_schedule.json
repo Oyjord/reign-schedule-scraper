@@ -1149,15 +1149,15 @@
     "opponent": "Texas",
     "location": "Home",
     "status": "Live",
-    "game_time": "Intermission",
+    "game_time": "15:45 2nd",
     "home_score": 2,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
       "M. Chromiak ( )",
       "N. Alexandrov (C. Guttman, S. Bolduc)"
     ],
     "away_goals": [
-
+      "A. Stranges (T. Bertucci, K. Lind)"
     ],
     "result": null,
     "overtime_type": null,
