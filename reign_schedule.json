@@ -1148,8 +1148,8 @@
     "date": "Tue, Dec 9",
     "opponent": "Texas",
     "location": "Home",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 6,
     "away_score": 3,
     "home_goals": [
@@ -1165,7 +1165,7 @@
       "A. Shlaine (T. Bertucci)",
       "H. Scott (C. Wheatcroft, K. Lind)"
     ],
-    "result": null,
+    "result": "W 3-6",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028127&lang_id=1",
     "scheduled_start": "2025-12-09T19:00:00-08:00"
