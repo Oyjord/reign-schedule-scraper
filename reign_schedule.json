@@ -1149,15 +1149,16 @@
     "opponent": "Texas",
     "location": "Home",
     "status": "Live",
-    "game_time": "0:06 3rd",
-    "home_score": 5,
+    "game_time": "Unofficial Final",
+    "home_score": 6,
     "away_score": 3,
     "home_goals": [
       "M. Chromiak ( )",
       "N. Alexandrov (C. Guttman, S. Bolduc)",
       "K. Connors (J. Wright, A. Lee)",
       "N. Alexandrov (A. Booth, K. Ziemmer)",
-      "K. Connors (J. Wright, A. Booth)"
+      "K. Connors (J. Wright, A. Booth)",
+      "F. Pinelli (T. Ward, G. Gawdin)"
     ],
     "away_goals": [
       "A. Stranges (T. Bertucci, K. Lind)",
