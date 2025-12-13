@@ -45,14 +45,14 @@
     "opponent": "Colorado",
     "location": "Away",
     "status": "Live",
-    "game_time": "18:48 3rd",
+    "game_time": "16:55 3rd",
     "home_score": 1,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
       "T. Nielsen (T. Tynan, W. Aamodt)"
     ],
     "away_goals": [
-
+      "T. Ward ( )"
     ],
     "result": null,
     "overtime_type": null,
