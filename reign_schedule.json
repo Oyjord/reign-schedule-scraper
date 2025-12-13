@@ -44,8 +44,8 @@
     "date": "Fri, Dec 12",
     "opponent": "Colorado",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 2,
     "away_score": 3,
     "home_goals": [
@@ -57,7 +57,7 @@
       "G. Gawdin (S. Bolduc, C. Guttman)",
       "G. Gawdin (S. Bolduc, A. Lee)"
     ],
-    "result": null,
+    "result": "W 3-2",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028139&lang_id=1",
     "scheduled_start": "2025-12-12T18:05:00-08:00"
