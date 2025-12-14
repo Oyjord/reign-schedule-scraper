@@ -458,7 +458,7 @@
     "opponent": "Colorado",
     "location": "Away",
     "status": "Live",
-    "game_time": "Intermission",
+    "game_time": "20:00 3rd",
     "home_score": 4,
     "away_score": 1,
     "home_goals": [
@@ -468,7 +468,7 @@
       "T. Makar (A. Barré-Boulet, J. Ahcan)"
     ],
     "away_goals": [
-      "G. Gawdin ( )"
+      "G. Gawdin (J. Hughes)"
     ],
     "result": null,
     "overtime_type": null,
