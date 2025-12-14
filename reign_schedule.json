@@ -458,11 +458,12 @@
     "opponent": "Colorado",
     "location": "Away",
     "status": "Live",
-    "game_time": "2:00 1st",
-    "home_score": 1,
+    "game_time": "Intermission",
+    "home_score": 2,
     "away_score": 0,
     "home_goals": [
-      "J. Megna (T. Nielsen, R. Attard)"
+      "J. Megna (T. Nielsen, R. Attard)",
+      "T. Nielsen (J. Megna, J. Ahcan)"
     ],
     "away_goals": [
 
