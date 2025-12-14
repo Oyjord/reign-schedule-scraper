@@ -457,8 +457,8 @@
     "date": "Sat, Dec 13",
     "opponent": "Colorado",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 6,
     "away_score": 1,
     "home_goals": [
@@ -472,7 +472,7 @@
     "away_goals": [
       "G. Gawdin (J. Hughes, C. Guttman)"
     ],
-    "result": null,
+    "result": "L 1-6",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028151&lang_id=1",
     "scheduled_start": "2025-12-13T18:05:00-08:00"
