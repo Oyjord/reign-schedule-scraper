@@ -1267,8 +1267,8 @@
     "date": "Wed, Dec 17",
     "opponent": "Bakersfield",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 0,
     "away_score": 4,
     "home_goals": [
@@ -1280,7 +1280,7 @@
       "A. Lee ( )",
       "K. Kirsanov (N. Alexandrov, G. Gawdin)"
     ],
-    "result": null,
+    "result": "W 4-0",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028171&lang_id=1",
     "scheduled_start": "2025-12-17T18:30:00-08:00"
