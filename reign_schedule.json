@@ -1268,14 +1268,14 @@
     "opponent": "Bakersfield",
     "location": "Away",
     "status": "Live",
-    "game_time": "8:08 1st",
+    "game_time": "2:31 1st",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
 
     ],
     "away_goals": [
-
+      "M. Chromiak (G. Gawdin, T. Ward)"
     ],
     "result": null,
     "overtime_type": null,
