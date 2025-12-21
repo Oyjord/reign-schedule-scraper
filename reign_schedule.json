@@ -483,14 +483,16 @@
     "opponent": "San Jose",
     "location": "Home",
     "status": "Live",
-    "game_time": "16:34 1st",
-    "home_score": 0,
-    "away_score": 1,
+    "game_time": "Intermission",
+    "home_score": 2,
+    "away_score": 2,
     "home_goals": [
-
+      "M. Chromiak (A. Lee)",
+      "A. Lee (G. Gawdin)"
     ],
     "away_goals": [
-      "E. Afanasyev (L. Carlsson, C. White)"
+      "E. Afanasyev (L. Carlsson, C. White)",
+      "E. Afanasyev (J. Huntington, K. Halttunen)"
     ],
     "result": null,
     "overtime_type": null,
