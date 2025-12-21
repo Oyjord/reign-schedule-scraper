@@ -482,8 +482,8 @@
     "date": "Sat, Dec 20",
     "opponent": "San Jose",
     "location": "Home",
-    "status": "Live",
-    "game_time": "In Shootout",
+    "status": "Final",
+    "game_time": null,
     "home_score": 3,
     "away_score": 4,
     "home_goals": [
@@ -496,8 +496,8 @@
       "E. Afanasyev (J. Huntington, K. Halttunen)",
       "O. Wahlstrom (Q. Musty, L. Cagnoni)"
     ],
-    "result": null,
-    "overtime_type": null,
+    "result": "L(SO) 4-3",
+    "overtime_type": "SO",
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028197&lang_id=1",
     "scheduled_start": "2025-12-20T18:00:00-08:00"
   },
