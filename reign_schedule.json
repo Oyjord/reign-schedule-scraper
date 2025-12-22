@@ -848,12 +848,13 @@
     "opponent": "San Jose",
     "location": "Home",
     "status": "Live",
-    "game_time": "12:22 3rd",
-    "home_score": 2,
+    "game_time": "3:30 3rd",
+    "home_score": 3,
     "away_score": 4,
     "home_goals": [
       "J. Wright (K. Ziemmer, N. Alexandrov)",
-      "K. Ziemmer (G. Gawdin, A. Booth)"
+      "K. Ziemmer (G. Gawdin, A. Booth)",
+      "J. Hughes (J. Wright)"
     ],
     "away_goals": [
       "J. Huntington (M. Havelid, E. Afanasyev)",
