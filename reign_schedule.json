@@ -848,16 +848,18 @@
     "opponent": "San Jose",
     "location": "Home",
     "status": "Live",
-    "game_time": "Intermission",
-    "home_score": 1,
-    "away_score": 3,
+    "game_time": "12:22 3rd",
+    "home_score": 2,
+    "away_score": 4,
     "home_goals": [
-      "J. Wright (K. Ziemmer, N. Alexandrov)"
+      "J. Wright (K. Ziemmer, N. Alexandrov)",
+      "K. Ziemmer (G. Gawdin, A. Booth)"
     ],
     "away_goals": [
       "J. Huntington (M. Havelid, E. Afanasyev)",
       "K. Halttunen (P. Regenda, P. Giles)",
-      "S. Bowers (O. Wahlstrom, J. Huntington)"
+      "S. Bowers (O. Wahlstrom, J. Huntington)",
+      "F. Bystedt ( )"
     ],
     "result": null,
     "overtime_type": null,
