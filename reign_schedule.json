@@ -847,10 +847,10 @@
     "date": "Sun, Dec 21",
     "opponent": "San Jose",
     "location": "Home",
-    "status": "Live",
-    "game_time": "3:30 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 3,
-    "away_score": 4,
+    "away_score": 6,
     "home_goals": [
       "J. Wright (K. Ziemmer, N. Alexandrov)",
       "K. Ziemmer (G. Gawdin, A. Booth)",
@@ -860,9 +860,11 @@
       "J. Huntington (M. Havelid, E. Afanasyev)",
       "K. Halttunen (P. Regenda, P. Giles)",
       "S. Bowers (O. Wahlstrom, J. Huntington)",
-      "F. Bystedt ( )"
+      "F. Bystedt ( )",
+      "P. Giles (J. Thompson, J. Huntington)",
+      "P. Regenda (L. Carlsson, C. Lund)"
     ],
-    "result": null,
+    "result": "L 6-3",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028208&lang_id=1",
     "scheduled_start": "2025-12-21T15:00:00-08:00"
