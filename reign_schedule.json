@@ -507,7 +507,7 @@
     "opponent": "San Jose",
     "location": "Away",
     "status": "Live",
-    "game_time": "1:33 3rd",
+    "game_time": "0:00 3rd",
     "home_score": 0,
     "away_score": 3,
     "home_goals": [
@@ -515,7 +515,7 @@
     ],
     "away_goals": [
       "A. Jämsen ( )",
-      "A. Lee ( )",
+      "A. Lee (G. Gawdin)",
       "N. Alexandrov ( )"
     ],
     "result": null,
