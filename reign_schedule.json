@@ -507,15 +507,16 @@
     "opponent": "San Jose",
     "location": "Away",
     "status": "Live",
-    "game_time": "6:01 3rd",
+    "game_time": "1:33 3rd",
     "home_score": 0,
-    "away_score": 2,
+    "away_score": 3,
     "home_goals": [
 
     ],
     "away_goals": [
       "A. Jämsen ( )",
-      "A. Lee ( )"
+      "A. Lee ( )",
+      "N. Alexandrov ( )"
     ],
     "result": null,
     "overtime_type": null,
