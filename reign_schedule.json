@@ -1150,7 +1150,7 @@
     "opponent": "Henderson",
     "location": "Away",
     "status": "Live",
-    "game_time": "Intermission",
+    "game_time": "3:41 OT",
     "home_score": 2,
     "away_score": 2,
     "home_goals": [
@@ -1159,7 +1159,7 @@
     ],
     "away_goals": [
       "T. Ward (C. Guttman, N. Alexandrov)",
-      "A. Lee ( )"
+      "A. Lee (N. Alexandrov, G. Gawdin)"
     ],
     "result": null,
     "overtime_type": null,
