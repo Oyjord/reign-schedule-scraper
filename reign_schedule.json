@@ -1149,8 +1149,8 @@
     "date": "Tue, Dec 30",
     "opponent": "Henderson",
     "location": "Away",
-    "status": "Live",
-    "game_time": "In Shootout",
+    "status": "Final",
+    "game_time": null,
     "home_score": 2,
     "away_score": 3,
     "home_goals": [
@@ -1161,8 +1161,8 @@
       "T. Ward (C. Guttman, N. Alexandrov)",
       "A. Lee (N. Alexandrov, G. Gawdin)"
     ],
-    "result": null,
-    "overtime_type": null,
+    "result": "W(SO) 3-2",
+    "overtime_type": "SO",
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028236&lang_id=1",
     "scheduled_start": "2025-12-30T19:00:00-08:00"
   },
