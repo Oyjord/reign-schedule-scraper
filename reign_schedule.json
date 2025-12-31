@@ -1150,14 +1150,14 @@
     "opponent": "Henderson",
     "location": "Away",
     "status": "Live",
-    "game_time": "16:31 3rd",
+    "game_time": "4:59 3rd",
     "home_score": 1,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
       "M. McLain (K. Uchacz, J. Davies)"
     ],
     "away_goals": [
-
+      "T. Ward (C. Guttman, N. Alexandrov)"
     ],
     "result": null,
     "overtime_type": null,
