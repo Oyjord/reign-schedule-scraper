@@ -1306,14 +1306,15 @@
     "opponent": "San Jose",
     "location": "Home",
     "status": "Live",
-    "game_time": "17:18 2nd",
+    "game_time": "14:33 2nd",
     "home_score": 1,
-    "away_score": 1,
+    "away_score": 2,
     "home_goals": [
       "C. Guttman (G. Gawdin, N. Alexandrov)"
     ],
     "away_goals": [
-      "O. Wahlstrom (K. Halttunen, C. White)"
+      "O. Wahlstrom (K. Halttunen, C. White)",
+      "E. Cardwell (Q. Musty, J. Huntington)"
     ],
     "result": null,
     "overtime_type": null,
