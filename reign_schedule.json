@@ -1305,23 +1305,24 @@
     "date": "Wed, Dec 31",
     "opponent": "San Jose",
     "location": "Home",
-    "status": "Live",
-    "game_time": "18:15 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 4,
-    "away_score": 4,
+    "away_score": 5,
     "home_goals": [
       "C. Guttman (G. Gawdin, N. Alexandrov)",
       "K. Connors (J. Hughes, K. Ziemmer)",
       "C. Guttman (T. Ward)",
-      "T. Rego ( )"
+      "T. Rego (C. Guttman, N. Alexandrov)"
     ],
     "away_goals": [
       "O. Wahlstrom (K. Halttunen, C. White)",
       "E. Cardwell (Q. Musty, J. Huntington)",
       "F. Bystedt ( )",
-      "E. Afanasyev ( )"
+      "E. Afanasyev ( )",
+      "L. Carlsson (C. Lund, E. Afanasyev)"
     ],
-    "result": null,
+    "result": "L 5-4",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028247&lang_id=1",
     "scheduled_start": "2025-12-31T18:00:00-08:00"
