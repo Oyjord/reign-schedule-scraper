@@ -1306,12 +1306,14 @@
     "opponent": "San Jose",
     "location": "Home",
     "status": "Live",
-    "game_time": "19:40 3rd",
-    "home_score": 2,
+    "game_time": "18:15 3rd",
+    "home_score": 4,
     "away_score": 4,
     "home_goals": [
       "C. Guttman (G. Gawdin, N. Alexandrov)",
-      "K. Connors (J. Hughes, K. Ziemmer)"
+      "K. Connors (J. Hughes, K. Ziemmer)",
+      "C. Guttman (T. Ward)",
+      "T. Rego ( )"
     ],
     "away_goals": [
       "O. Wahlstrom (K. Halttunen, C. White)",
