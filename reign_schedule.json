@@ -654,7 +654,7 @@
     "opponent": "Coachella Valley",
     "location": "Home",
     "status": "Live",
-    "game_time": "5:56 2nd",
+    "game_time": "Intermission",
     "home_score": 1,
     "away_score": 2,
     "home_goals": [
@@ -662,7 +662,7 @@
     ],
     "away_goals": [
       "I. McKinnon (J. Novak, E. Šalé)",
-      "J. Novak (C. Rehkopf, V. Ottavainen)"
+      "C. Rehkopf (T. Jugnauth, V. Ottavainen)"
     ],
     "result": null,
     "overtime_type": null,
