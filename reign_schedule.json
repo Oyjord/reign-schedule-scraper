@@ -653,8 +653,8 @@
     "date": "Sat, Jan 3",
     "opponent": "Coachella Valley",
     "location": "Home",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 3,
     "away_score": 2,
     "home_goals": [
@@ -666,7 +666,7 @@
       "I. McKinnon (J. Novak, E. Šalé)",
       "C. Rehkopf (T. Jugnauth, V. Ottavainen)"
     ],
-    "result": null,
+    "result": "W 2-3",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028269&lang_id=1",
     "scheduled_start": "2026-01-03T18:00:00-08:00"
