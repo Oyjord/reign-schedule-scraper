@@ -654,14 +654,15 @@
     "opponent": "Coachella Valley",
     "location": "Home",
     "status": "Live",
-    "game_time": "10:47 2nd",
+    "game_time": "8:16 2nd",
     "home_score": 1,
-    "away_score": 1,
+    "away_score": 2,
     "home_goals": [
       "A. Lee (C. Guttman, G. Gawdin)"
     ],
     "away_goals": [
-      "I. McKinnon (J. Novak, E. Šalé)"
+      "I. McKinnon (J. Novak, E. Šalé)",
+      "J. Novak (C. Rehkopf, V. Ottavainen)"
     ],
     "result": null,
     "overtime_type": null,
