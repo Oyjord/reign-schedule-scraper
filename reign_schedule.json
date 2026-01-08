@@ -1417,8 +1417,8 @@
     "date": "Wed, Jan 7",
     "opponent": "Iowa",
     "location": "Home",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 4,
     "away_score": 3,
     "home_goals": [
@@ -1432,7 +1432,7 @@
       "C. Lambos (D. Gambrell, O. Olausson)",
       "G. Mayhew (D. Špaček, D. Gambrell)"
     ],
-    "result": null,
+    "result": "W 3-4",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028286&lang_id=1",
     "scheduled_start": "2026-01-07T19:00:00-08:00"
