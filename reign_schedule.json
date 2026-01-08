@@ -1418,9 +1418,9 @@
     "opponent": "Iowa",
     "location": "Home",
     "status": "Live",
-    "game_time": "3:20 2nd",
+    "game_time": "Intermission",
     "home_score": 4,
-    "away_score": 2,
+    "away_score": 3,
     "home_goals": [
       "K. Connors (A. Jämsen, J. Wright)",
       "C. Guttman (N. Alexandrov)",
@@ -1429,7 +1429,8 @@
     ],
     "away_goals": [
       "B. Katchouk (J. Foudy, B. Gleason)",
-      "C. Lambos (D. Gambrell, O. Olausson)"
+      "C. Lambos (D. Gambrell, O. Olausson)",
+      "G. Mayhew (D. Špaček, D. Gambrell)"
     ],
     "result": null,
     "overtime_type": null,
