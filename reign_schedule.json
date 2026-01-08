@@ -1418,14 +1418,15 @@
     "opponent": "Iowa",
     "location": "Home",
     "status": "Live",
-    "game_time": "18:43 1st",
-    "home_score": 1,
-    "away_score": 0,
+    "game_time": "4:11 1st",
+    "home_score": 2,
+    "away_score": 1,
     "home_goals": [
-      "K. Connors (A. Jämsen, J. Wright)"
+      "K. Connors (A. Jämsen, J. Wright)",
+      "C. Guttman (N. Alexandrov)"
     ],
     "away_goals": [
-
+      "B. Katchouk (J. Foudy, B. Gleason)"
     ],
     "result": null,
     "overtime_type": null,
