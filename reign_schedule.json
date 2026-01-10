@@ -107,9 +107,9 @@
     "date": "Fri, Jan 9",
     "opponent": "Henderson",
     "location": "Home",
-    "status": "Live",
-    "game_time": "0:06 OT",
-    "home_score": 4,
+    "status": "Final",
+    "game_time": null,
+    "home_score": 5,
     "away_score": 4,
     "home_goals": [
       "K. Ziemmer (K. Connors, N. Alexandrov)",
@@ -123,8 +123,8 @@
       "S. Stanick (T. Laczynski, J. Davies)",
       "M. McLain (V. Kmec, J. Hallum)"
     ],
-    "result": null,
-    "overtime_type": null,
+    "result": "W(SO) 4-5",
+    "overtime_type": "SO",
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028295&lang_id=1",
     "scheduled_start": "2026-01-09T19:00:00-08:00"
   },
