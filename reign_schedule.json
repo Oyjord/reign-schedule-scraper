@@ -108,14 +108,15 @@
     "opponent": "Henderson",
     "location": "Home",
     "status": "Live",
-    "game_time": "4:56 1st",
+    "game_time": "1:17 1st",
     "home_score": 1,
-    "away_score": 1,
+    "away_score": 2,
     "home_goals": [
       "K. Ziemmer (K. Connors, N. Alexandrov)"
     ],
     "away_goals": [
-      "J. Fleming ( )"
+      "J. Fleming ( )",
+      "J. Megna (J. Davies, J. Fleming)"
     ],
     "result": null,
     "overtime_type": null,
