@@ -108,11 +108,12 @@
     "opponent": "Henderson",
     "location": "Home",
     "status": "Live",
-    "game_time": "18:22 2nd",
-    "home_score": 1,
+    "game_time": "7:19 2nd",
+    "home_score": 2,
     "away_score": 2,
     "home_goals": [
-      "K. Ziemmer (K. Connors, N. Alexandrov)"
+      "K. Ziemmer (K. Connors, N. Alexandrov)",
+      "J. Doty (K. Mastrodonato, J. Hughes)"
     ],
     "away_goals": [
       "M. McLain ( )",
