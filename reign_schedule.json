@@ -108,17 +108,20 @@
     "opponent": "Henderson",
     "location": "Home",
     "status": "Live",
-    "game_time": "Intermission",
-    "home_score": 3,
-    "away_score": 2,
+    "game_time": "2:14 3rd",
+    "home_score": 4,
+    "away_score": 4,
     "home_goals": [
       "K. Ziemmer (K. Connors, N. Alexandrov)",
       "J. Doty (K. Mastrodonato, J. Hughes)",
-      "A. Jämsen (J. Hughes, F. Pinelli)"
+      "A. Jämsen (J. Hughes, F. Pinelli)",
+      "O. Salin (K. Ziemmer, A. Jämsen)"
     ],
     "away_goals": [
       "M. McLain ( )",
-      "J. Megna (J. Davies, J. Fleming)"
+      "J. Megna (J. Davies, J. Fleming)",
+      "S. Stanick (T. Laczynski, J. Davies)",
+      "M. McLain (V. Kmec, J. Hallum)"
     ],
     "result": null,
     "overtime_type": null,
