@@ -1211,15 +1211,15 @@
     "date": "Tue, Jan 13",
     "opponent": "Colorado",
     "location": "Away",
-    "status": "Upcoming",
-    "game_time": null,
-    "home_score": 0,
-    "away_score": 0,
+    "status": "Live",
+    "game_time": "Intermission",
+    "home_score": 1,
+    "away_score": 1,
     "home_goals": [
-
+      "C. Bradley (J. Polin, N. Prishchepov)"
     ],
     "away_goals": [
-
+      "S. Bolduc (T. Rego, A. Jämsen)"
     ],
     "result": null,
     "overtime_type": null,
