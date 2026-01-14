@@ -1212,9 +1212,9 @@
     "opponent": "Colorado",
     "location": "Away",
     "status": "Live",
-    "game_time": "9:21 3rd",
+    "game_time": "8:20 3rd",
     "home_score": 2,
-    "away_score": 5,
+    "away_score": 6,
     "home_goals": [
       "C. Bradley (J. Polin, N. Prishchepov)",
       "N. Prishchepov (R. Attard, J. Ahcan)"
@@ -1224,7 +1224,8 @@
       "F. Pinelli ( )",
       "T. Rego (K. Isogai, K. Lawrence)",
       "A. Jämsen (J. Hughes)",
-      "J. Wright (K. Connors)"
+      "J. Wright (K. Connors)",
+      "M. Chromiak (G. Gawdin, C. Guttman)"
     ],
     "result": null,
     "overtime_type": null,
