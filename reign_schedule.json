@@ -1212,12 +1212,13 @@
     "opponent": "Colorado",
     "location": "Away",
     "status": "Live",
-    "game_time": "0:28 3rd",
-    "home_score": 2,
+    "game_time": "Unofficial Final",
+    "home_score": 3,
     "away_score": 6,
     "home_goals": [
       "C. Bradley (J. Polin, N. Prishchepov)",
-      "N. Prishchepov (R. Attard, J. Ahcan)"
+      "N. Prishchepov (R. Attard, J. Ahcan)",
+      "C. Bradley (J. Polin, N. Prishchepov)"
     ],
     "away_goals": [
       "S. Bolduc (T. Rego, A. Jämsen)",
