@@ -1211,8 +1211,8 @@
     "date": "Tue, Jan 13",
     "opponent": "Colorado",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 3,
     "away_score": 6,
     "home_goals": [
@@ -1224,11 +1224,11 @@
       "S. Bolduc (T. Rego, A. Jämsen)",
       "F. Pinelli ( )",
       "T. Rego (K. Isogai, K. Lawrence)",
-      "A. Jämsen (J. Hughes)",
+      "A. Jämsen (J. Hughes, F. Pinelli)",
       "J. Wright (K. Connors)",
       "M. Chromiak (G. Gawdin, C. Guttman)"
     ],
-    "result": null,
+    "result": "W 6-3",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028325&lang_id=1",
     "scheduled_start": "2026-01-13T18:05:00-08:00"
