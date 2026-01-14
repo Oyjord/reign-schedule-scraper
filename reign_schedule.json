@@ -1212,16 +1212,17 @@
     "opponent": "Colorado",
     "location": "Away",
     "status": "Live",
-    "game_time": "Intermission",
+    "game_time": "18:08 3rd",
     "home_score": 1,
-    "away_score": 3,
+    "away_score": 4,
     "home_goals": [
       "C. Bradley (J. Polin, N. Prishchepov)"
     ],
     "away_goals": [
       "S. Bolduc (T. Rego, A. Jämsen)",
       "F. Pinelli ( )",
-      "T. Rego (K. Isogai, K. Lawrence)"
+      "T. Rego (K. Isogai, K. Lawrence)",
+      "A. Jämsen (J. Hughes)"
     ],
     "result": null,
     "overtime_type": null,
