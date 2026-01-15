@@ -1392,22 +1392,22 @@
     "date": "Wed, Jan 14",
     "opponent": "Colorado",
     "location": "Away",
-    "status": "Live",
-    "game_time": "In Shootout",
+    "status": "Final",
+    "game_time": null,
     "home_score": 3,
     "away_score": 4,
     "home_goals": [
       "J. Megna (T. Felhaber, A. Barré-Boulet)",
       "Z. Bardakov (T. Makar, W. Aamodt)",
-      "J. Polin (A. Gagne)"
+      "J. Polin (A. Gagne, N. Prishchepov)"
     ],
     "away_goals": [
       "N. Alexandrov (M. Chromiak, K. Connors)",
       "K. Connors (M. Chromiak, N. Alexandrov)",
       "N. Alexandrov (M. Chromiak)"
     ],
-    "result": null,
-    "overtime_type": null,
+    "result": "W(SO) 4-3",
+    "overtime_type": "SO",
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028329&lang_id=1",
     "scheduled_start": "2026-01-14T18:05:00-08:00"
   },
