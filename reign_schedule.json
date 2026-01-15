@@ -1393,7 +1393,7 @@
     "opponent": "Colorado",
     "location": "Away",
     "status": "Live",
-    "game_time": "2:59 3rd",
+    "game_time": "0:19 3rd",
     "home_score": 3,
     "away_score": 2,
     "home_goals": [
@@ -1403,7 +1403,8 @@
     ],
     "away_goals": [
       "N. Alexandrov (M. Chromiak, K. Connors)",
-      "K. Connors (M. Chromiak, N. Alexandrov)"
+      "K. Connors (M. Chromiak, N. Alexandrov)",
+      "N. Alexandrov (M. Chromiak)"
     ],
     "result": null,
     "overtime_type": null,
