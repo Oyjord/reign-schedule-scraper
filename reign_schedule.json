@@ -620,9 +620,9 @@
     "opponent": "Texas",
     "location": "Away",
     "status": "Live",
-    "game_time": "0:14 3rd",
+    "game_time": "0:02 3rd",
     "home_score": 3,
-    "away_score": 3,
+    "away_score": 4,
     "home_goals": [
       "S. Chisholm (T. Taylor, C. McKenzie)",
       "H. Scott (C. Hughes, L. Krys)",
@@ -631,7 +631,8 @@
     "away_goals": [
       "K. Isogai ( )",
       "C. Guttman (M. Chromiak, N. Alexandrov)",
-      "C. Guttman (K. Ziemmer, M. Chromiak)"
+      "C. Guttman (K. Ziemmer, M. Chromiak)",
+      "J. Wright ( )"
     ],
     "result": null,
     "overtime_type": null,
