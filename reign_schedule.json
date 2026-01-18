@@ -974,14 +974,14 @@
     "opponent": "Texas",
     "location": "Away",
     "status": "Live",
-    "game_time": "7:34 1st",
+    "game_time": "2:27 1st",
     "home_score": 1,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
       "A. Shlaine (L. Krys, M. Seminoff)"
     ],
     "away_goals": [
-
+      "C. Guttman (K. Connors, M. Chromiak)"
     ],
     "result": null,
     "overtime_type": null,
