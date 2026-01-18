@@ -620,12 +620,13 @@
     "opponent": "Texas",
     "location": "Away",
     "status": "Live",
-    "game_time": "8:00 2nd",
-    "home_score": 2,
+    "game_time": "14:20 3rd",
+    "home_score": 3,
     "away_score": 2,
     "home_goals": [
-      "S. Chisholm (C. McKenzie, T. Taylor)",
-      "H. Scott (C. Hughes, L. Krys)"
+      "S. Chisholm (T. Taylor, C. McKenzie)",
+      "H. Scott (C. Hughes, L. Krys)",
+      "M. Karow (C. Hughes, M. Seminoff)"
     ],
     "away_goals": [
       "K. Isogai ( )",
