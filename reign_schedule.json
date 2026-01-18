@@ -619,8 +619,8 @@
     "date": "Sat, Jan 17",
     "opponent": "Texas",
     "location": "Away",
-    "status": "Live",
-    "game_time": "0:02 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 3,
     "away_score": 4,
     "home_goals": [
@@ -632,9 +632,9 @@
       "K. Isogai ( )",
       "C. Guttman (M. Chromiak, N. Alexandrov)",
       "C. Guttman (K. Ziemmer, M. Chromiak)",
-      "J. Wright ( )"
+      "J. Wright (F. Pinelli, K. Connors)"
     ],
-    "result": null,
+    "result": "W 4-3",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028357&lang_id=1",
     "scheduled_start": "2026-01-17T17:00:00-08:00"
