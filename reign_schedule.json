@@ -973,8 +973,8 @@
     "date": "Sun, Jan 18",
     "opponent": "Texas",
     "location": "Away",
-    "status": "Upcoming",
-    "game_time": null,
+    "status": "Live",
+    "game_time": "16:01 1st",
     "home_score": 0,
     "away_score": 0,
     "home_goals": [
