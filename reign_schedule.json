@@ -973,8 +973,8 @@
     "date": "Sun, Jan 18",
     "opponent": "Texas",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 3,
     "away_score": 1,
     "home_goals": [
@@ -985,7 +985,7 @@
     "away_goals": [
       "C. Guttman (K. Connors, M. Chromiak)"
     ],
-    "result": null,
+    "result": "L 1-3",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028368&lang_id=1",
     "scheduled_start": "2026-01-18T15:00:00-08:00"
