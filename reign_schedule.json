@@ -974,11 +974,12 @@
     "opponent": "Texas",
     "location": "Away",
     "status": "Live",
-    "game_time": "15:23 2nd",
-    "home_score": 1,
+    "game_time": "10:18 2nd",
+    "home_score": 2,
     "away_score": 1,
     "home_goals": [
-      "A. Shlaine (L. Krys, M. Seminoff)"
+      "A. Shlaine (L. Krys, M. Seminoff)",
+      "C. Hughes (T. Taylor, H. Scott)"
     ],
     "away_goals": [
       "C. Guttman (K. Connors, M. Chromiak)"
