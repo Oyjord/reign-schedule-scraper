@@ -88,14 +88,14 @@
     "opponent": "Coachella Valley",
     "location": "Away",
     "status": "Live",
-    "game_time": "15:17 1st",
+    "game_time": "13:43 1st",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
 
     ],
     "away_goals": [
-
+      "G. Gawdin (N. Alexandrov, M. Chromiak)"
     ],
     "result": null,
     "overtime_type": null,
