@@ -90,14 +90,15 @@
     "status": "Live",
     "game_time": "4:26 OT",
     "home_score": 2,
-    "away_score": 2,
+    "away_score": 3,
     "home_goals": [
       "E. Šalé ( )",
       "J. Hayden (L. Morrison, J. Firkus)"
     ],
     "away_goals": [
       "G. Gawdin (N. Alexandrov, M. Chromiak)",
-      "C. Guttman (A. Booth, L. Brown)"
+      "C. Guttman (A. Booth, L. Brown)",
+      "N. Alexandrov (C. Guttman)"
     ],
     "result": null,
     "overtime_type": null,
