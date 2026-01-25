@@ -648,13 +648,14 @@
     "opponent": "Colorado",
     "location": "Home",
     "status": "Live",
-    "game_time": "14:49 3rd",
-    "home_score": 3,
+    "game_time": "12:44 3rd",
+    "home_score": 4,
     "away_score": 1,
     "home_goals": [
       "C. Guttman (L. Brown, N. Alexandrov)",
       "C. Guttman (N. Alexandrov, J. Dvořák)",
-      "A. Lee (S. Bolduc)"
+      "A. Lee (S. Bolduc)",
+      "A. Jämsen (G. Gawdin)"
     ],
     "away_goals": [
       "D. Gushchin (B. Yoon, S. Behrens)"
