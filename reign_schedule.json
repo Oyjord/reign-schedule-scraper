@@ -648,11 +648,12 @@
     "opponent": "Colorado",
     "location": "Home",
     "status": "Live",
-    "game_time": "16:53 1st",
-    "home_score": 1,
+    "game_time": "12:55 1st",
+    "home_score": 2,
     "away_score": 0,
     "home_goals": [
-      "C. Guttman (L. Brown, N. Alexandrov)"
+      "C. Guttman (L. Brown, N. Alexandrov)",
+      "C. Guttman ( )"
     ],
     "away_goals": [
 
