@@ -1429,8 +1429,8 @@
     "date": "Wed, Jan 28",
     "opponent": "Abbotsford",
     "location": "Home",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 5,
     "away_score": 2,
     "home_goals": [
@@ -1444,7 +1444,7 @@
       "L. Reichel (J. Schuldt)",
       "V. Alriksson (B. Berard, J. Khaira)"
     ],
-    "result": null,
+    "result": "W 2-5",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028421&lang_id=1",
     "scheduled_start": "2026-01-28T19:00:00-08:00"
