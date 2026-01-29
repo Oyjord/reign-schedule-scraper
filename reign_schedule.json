@@ -1430,11 +1430,12 @@
     "opponent": "Abbotsford",
     "location": "Home",
     "status": "Live",
-    "game_time": "18:49 2nd",
-    "home_score": 1,
+    "game_time": "17:50 2nd",
+    "home_score": 2,
     "away_score": 1,
     "home_goals": [
-      "A. Lee (M. Chromiak, G. Gawdin)"
+      "A. Lee (M. Chromiak, G. Gawdin)",
+      "J. Wright (T. Rego, A. Jämsen)"
     ],
     "away_goals": [
       "L. Reichel (J. Schuldt)"
