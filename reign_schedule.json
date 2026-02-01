@@ -922,15 +922,15 @@
     "date": "Sun, Feb 1",
     "opponent": "Coachella Valley",
     "location": "Home",
-    "status": "Upcoming",
-    "game_time": null,
+    "status": "Live",
+    "game_time": "19:06 1st",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
 
     ],
     "away_goals": [
-
+      "J. Firkus (J. Nyman, C. Price)"
     ],
     "result": null,
     "overtime_type": null,
