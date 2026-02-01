@@ -693,8 +693,8 @@
     "date": "Sat, Jan 31",
     "opponent": "San Diego",
     "location": "Away",
-    "status": "Live",
-    "game_time": "0:00 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 4,
     "away_score": 3,
     "home_goals": [
@@ -708,7 +708,7 @@
       "J. Wright (K. Kirsanov, K. Ziemmer)",
       "J. Dvořák (F. Pinelli, J. Wright)"
     ],
-    "result": null,
+    "result": "L 3-4",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028443&lang_id=1",
     "scheduled_start": "2026-01-31T18:00:00-08:00"
