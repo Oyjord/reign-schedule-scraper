@@ -694,16 +694,17 @@
     "opponent": "San Diego",
     "location": "Away",
     "status": "Live",
-    "game_time": "15:41 3rd",
+    "game_time": "14:26 3rd",
     "home_score": 2,
-    "away_score": 2,
+    "away_score": 3,
     "home_goals": [
       "J. Caulfield (T. Hinds)",
       "T. Hinds (J. Caulfield, N. Myatovic)"
     ],
     "away_goals": [
       "A. Lee (K. Kirsanov, A. Booth)",
-      "J. Wright (K. Kirsanov, K. Ziemmer)"
+      "J. Wright (K. Kirsanov, K. Ziemmer)",
+      "J. Dvořák (F. Pinelli, J. Wright)"
     ],
     "result": null,
     "overtime_type": null,
