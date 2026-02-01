@@ -923,14 +923,15 @@
     "opponent": "Coachella Valley",
     "location": "Home",
     "status": "Live",
-    "game_time": "19:06 1st",
+    "game_time": "11:45 1st",
     "home_score": 0,
-    "away_score": 1,
+    "away_score": 2,
     "home_goals": [
 
     ],
     "away_goals": [
-      "J. Firkus (J. Nyman, C. Price)"
+      "J. Firkus (J. Nyman, C. Price)",
+      "L. Roed (T. Nelson)"
     ],
     "result": null,
     "overtime_type": null,
