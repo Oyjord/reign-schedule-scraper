@@ -694,11 +694,12 @@
     "opponent": "San Diego",
     "location": "Away",
     "status": "Live",
-    "game_time": "18:28 3rd",
-    "home_score": 1,
+    "game_time": "15:41 3rd",
+    "home_score": 2,
     "away_score": 2,
     "home_goals": [
-      "J. Caulfield (T. Hinds)"
+      "J. Caulfield (T. Hinds)",
+      "T. Hinds (J. Caulfield, N. Myatovic)"
     ],
     "away_goals": [
       "A. Lee (K. Kirsanov, A. Booth)",
