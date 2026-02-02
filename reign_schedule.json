@@ -922,8 +922,8 @@
     "date": "Sun, Feb 1",
     "opponent": "Coachella Valley",
     "location": "Home",
-    "status": "Live",
-    "game_time": "9:15 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 1,
     "away_score": 5,
     "home_goals": [
@@ -934,9 +934,9 @@
       "L. Roed (T. Nelson)",
       "M. Stephens (L. Roed, E. Šalé)",
       "L. Roed (T. Jugnauth, L. Morrison)",
-      "J. Firkus ( )"
+      "J. Firkus (O. Fisker Mølgaard)"
     ],
-    "result": null,
+    "result": "L 5-1",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028455&lang_id=1",
     "scheduled_start": "2026-02-01T15:00:00-08:00"
