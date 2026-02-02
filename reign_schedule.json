@@ -923,9 +923,9 @@
     "opponent": "Coachella Valley",
     "location": "Home",
     "status": "Live",
-    "game_time": "10:25 3rd",
+    "game_time": "9:15 3rd",
     "home_score": 1,
-    "away_score": 4,
+    "away_score": 5,
     "home_goals": [
       "J. Hughes (S. Bolduc, F. Pinelli)"
     ],
@@ -933,7 +933,8 @@
       "J. Firkus (J. Nyman, C. Price)",
       "L. Roed (T. Nelson)",
       "M. Stephens (L. Roed, E. Šalé)",
-      "L. Roed (T. Jugnauth, L. Morrison)"
+      "L. Roed (T. Jugnauth, L. Morrison)",
+      "J. Firkus ( )"
     ],
     "result": null,
     "overtime_type": null,
