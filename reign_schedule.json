@@ -1395,11 +1395,13 @@
     "opponent": "Tucson",
     "location": "Home",
     "status": "Live",
-    "game_time": "16:17 1st",
-    "home_score": 1,
+    "game_time": "9:18 1st",
+    "home_score": 3,
     "away_score": 0,
     "home_goals": [
-      "J. Doty (K. Lawrence, S. Bolduc)"
+      "J. Doty (K. Lawrence, S. Bolduc)",
+      "M. Chromiak (K. Kirsanov)",
+      "G. Gawdin (M. Chromiak)"
     ],
     "away_goals": [
 
