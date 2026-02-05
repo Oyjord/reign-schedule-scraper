@@ -1394,8 +1394,8 @@
     "date": "Wed, Feb 4",
     "opponent": "Tucson",
     "location": "Home",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 5,
     "away_score": 1,
     "home_goals": [
@@ -1408,7 +1408,7 @@
     "away_goals": [
       "K. Rooney (C. Hebig, S. Walker)"
     ],
-    "result": null,
+    "result": "W 1-5",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028461&lang_id=1",
     "scheduled_start": "2026-02-04T19:00:00-08:00"
