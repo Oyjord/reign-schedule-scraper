@@ -1395,14 +1395,15 @@
     "opponent": "Tucson",
     "location": "Home",
     "status": "Live",
-    "game_time": "5:42 3rd",
-    "home_score": 4,
+    "game_time": "0:00 3rd",
+    "home_score": 5,
     "away_score": 1,
     "home_goals": [
       "J. Doty (K. Lawrence, S. Bolduc)",
       "M. Chromiak (K. Kirsanov)",
       "G. Gawdin (M. Chromiak)",
-      "A. Jämsen (A. Lee, J. Hughes)"
+      "A. Jämsen (A. Lee, J. Hughes)",
+      "F. Pinelli (J. Wright)"
     ],
     "away_goals": [
       "K. Rooney (C. Hebig, S. Walker)"
