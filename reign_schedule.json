@@ -68,15 +68,16 @@
     "opponent": "Bakersfield",
     "location": "Away",
     "status": "Live",
-    "game_time": "19:13 3rd",
+    "game_time": "8:09 3rd",
     "home_score": 1,
-    "away_score": 2,
+    "away_score": 3,
     "home_goals": [
       "L. Prokop (R. Pitlick, D. D’Amato)"
     ],
     "away_goals": [
       "A. Jämsen (J. Hicketts)",
-      "C. Guttman (A. Booth)"
+      "C. Guttman (A. Booth)",
+      "G. Gawdin (C. Guttman)"
     ],
     "result": null,
     "overtime_type": null,
