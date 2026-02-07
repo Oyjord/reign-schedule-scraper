@@ -68,17 +68,19 @@
     "opponent": "Bakersfield",
     "location": "Away",
     "status": "Live",
-    "game_time": "2:58 3rd",
-    "home_score": 2,
-    "away_score": 3,
+    "game_time": "Unofficial Final",
+    "home_score": 3,
+    "away_score": 4,
     "home_goals": [
       "L. Prokop (R. Pitlick, D. D’Amato)",
-      "J. Hamblin ( )"
+      "J. Hamblin (Q. Hutson, I. Howard)",
+      "V. Marjala (J. Hamblin, S. Griffith)"
     ],
     "away_goals": [
       "A. Jämsen (J. Hicketts)",
       "C. Guttman (A. Booth)",
-      "G. Gawdin (C. Guttman, J. Millar)"
+      "G. Gawdin (C. Guttman, J. Millar)",
+      "J. Wright (E. Portillo)"
     ],
     "result": null,
     "overtime_type": null,
