@@ -67,8 +67,8 @@
     "date": "Fri, Feb 6",
     "opponent": "Bakersfield",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 3,
     "away_score": 4,
     "home_goals": [
@@ -82,7 +82,7 @@
       "G. Gawdin (C. Guttman, J. Millar)",
       "J. Wright (E. Portillo)"
     ],
-    "result": null,
+    "result": "W 4-3",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028468&lang_id=1",
     "scheduled_start": "2026-02-06T19:00:00-08:00"
