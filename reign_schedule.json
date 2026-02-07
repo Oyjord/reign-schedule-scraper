@@ -68,11 +68,12 @@
     "opponent": "Bakersfield",
     "location": "Away",
     "status": "Live",
-    "game_time": "4:47 3rd",
-    "home_score": 1,
+    "game_time": "2:58 3rd",
+    "home_score": 2,
     "away_score": 3,
     "home_goals": [
-      "L. Prokop (R. Pitlick, D. D’Amato)"
+      "L. Prokop (R. Pitlick, D. D’Amato)",
+      "J. Hamblin ( )"
     ],
     "away_goals": [
       "A. Jämsen (J. Hicketts)",
