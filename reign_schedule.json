@@ -608,14 +608,15 @@
     "opponent": "Bakersfield",
     "location": "Home",
     "status": "Live",
-    "game_time": "9:58 1st",
+    "game_time": "7:57 1st",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 2,
     "home_goals": [
 
     ],
     "away_goals": [
-      "R. Stillman (S. Poulin, J. Brown)"
+      "R. Stillman (S. Poulin, J. Brown)",
+      "J. Hamblin (D. D’Amato)"
     ],
     "result": null,
     "overtime_type": null,
