@@ -607,8 +607,8 @@
     "date": "Sat, Feb 7",
     "opponent": "Bakersfield",
     "location": "Home",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 4,
     "away_score": 3,
     "home_goals": [
@@ -622,7 +622,7 @@
       "J. Hamblin (D. D’Amato)",
       "D. Carfagna (I. Howard, J. Hamblin)"
     ],
-    "result": null,
+    "result": "W 3-4",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028492&lang_id=1",
     "scheduled_start": "2026-02-07T18:00:00-08:00"
