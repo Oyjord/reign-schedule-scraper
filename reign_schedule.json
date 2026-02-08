@@ -608,15 +608,16 @@
     "opponent": "Bakersfield",
     "location": "Home",
     "status": "Live",
-    "game_time": "6:29 1st",
+    "game_time": "2:45 1st",
     "home_score": 1,
-    "away_score": 2,
+    "away_score": 3,
     "home_goals": [
       "C. Guttman (N. Alexandrov)"
     ],
     "away_goals": [
       "R. Stillman (S. Poulin, J. Brown)",
-      "J. Hamblin (D. D’Amato)"
+      "J. Hamblin (D. D’Amato)",
+      "D. Carfagna (I. Howard, J. Hamblin)"
     ],
     "result": null,
     "overtime_type": null,
