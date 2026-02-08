@@ -608,12 +608,13 @@
     "opponent": "Bakersfield",
     "location": "Home",
     "status": "Live",
-    "game_time": "Intermission",
-    "home_score": 2,
+    "game_time": "16:26 3rd",
+    "home_score": 3,
     "away_score": 3,
     "home_goals": [
       "C. Guttman (N. Alexandrov)",
-      "K. Ziemmer (K. Kirsanov, A. Booth)"
+      "K. Ziemmer (K. Kirsanov, A. Booth)",
+      "K. Ziemmer (J. Millar)"
     ],
     "away_goals": [
       "R. Stillman (S. Poulin, J. Brown)",
