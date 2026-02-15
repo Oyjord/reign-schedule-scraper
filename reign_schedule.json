@@ -569,10 +569,11 @@
     "location": "Away",
     "status": "Live",
     "game_time": "8:52 3rd",
-    "home_score": 1,
+    "home_score": 2,
     "away_score": 1,
     "home_goals": [
-      "N. Åman (N. Knyzhov, J. Woo)"
+      "N. Åman (N. Knyzhov, J. Woo)",
+      "N. Poisson (N. Knyzhov)"
     ],
     "away_goals": [
       "C. Guttman (K. Connors, M. Chromiak)"
