@@ -391,14 +391,14 @@
     "date": "Mon, Feb 16",
     "opponent": "Abbotsford",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 5,
     "away_score": 3,
     "home_goals": [
       "J. Lekkerimäki (T. Mueller, J. Schuldt)",
       "B. Berard (N. Åman, S. Mynio)",
-      "J. Khaira (V. Mancini)",
+      "J. Khaira (V. Mancini, J. Schuldt)",
       "J. Lekkerimäki (T. Mueller, A. Bains)",
       "T. Mueller (J. Woo, A. Bains)"
     ],
@@ -407,7 +407,7 @@
       "G. Gawdin (M. Chromiak, N. Alexandrov)",
       "A. Jämsen (N. Alexandrov)"
     ],
-    "result": null,
+    "result": "L 3-5",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028525&lang_id=1",
     "scheduled_start": "2026-02-16T13:00:00-08:00"
