@@ -391,15 +391,15 @@
     "date": "Mon, Feb 16",
     "opponent": "Abbotsford",
     "location": "Away",
-    "status": "Upcoming",
-    "game_time": null,
+    "status": "Live",
+    "game_time": "9:57 1st",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
 
     ],
     "away_goals": [
-
+      "A. Jämsen (F. Pinelli)"
     ],
     "result": null,
     "overtime_type": null,
