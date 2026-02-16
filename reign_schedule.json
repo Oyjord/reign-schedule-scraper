@@ -392,12 +392,14 @@
     "opponent": "Abbotsford",
     "location": "Away",
     "status": "Live",
-    "game_time": "16:09 3rd",
-    "home_score": 2,
+    "game_time": "5:37 3rd",
+    "home_score": 4,
     "away_score": 3,
     "home_goals": [
       "J. Lekkerimäki (T. Mueller, J. Schuldt)",
-      "B. Berard (N. Åman, S. Mynio)"
+      "B. Berard (N. Åman, S. Mynio)",
+      "J. Khaira (V. Mancini)",
+      "J. Lekkerimäki (T. Mueller, A. Bains)"
     ],
     "away_goals": [
       "A. Jämsen (F. Pinelli)",
