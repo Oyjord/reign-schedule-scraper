@@ -392,11 +392,12 @@
     "opponent": "Abbotsford",
     "location": "Away",
     "status": "Live",
-    "game_time": "Intermission",
-    "home_score": 0,
+    "game_time": "14:04 2nd",
+    "home_score": 2,
     "away_score": 1,
     "home_goals": [
-
+      "J. Lekkerimäki ( )",
+      "B. Berard (N. Åman, S. Mynio)"
     ],
     "away_goals": [
       "A. Jämsen (F. Pinelli)"
