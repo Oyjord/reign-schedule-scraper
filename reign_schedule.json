@@ -392,16 +392,17 @@
     "opponent": "Abbotsford",
     "location": "Away",
     "status": "Live",
-    "game_time": "Intermission",
+    "game_time": "16:09 3rd",
     "home_score": 2,
-    "away_score": 2,
+    "away_score": 3,
     "home_goals": [
-      "J. Lekkerimäki ( )",
+      "J. Lekkerimäki (T. Mueller, J. Schuldt)",
       "B. Berard (N. Åman, S. Mynio)"
     ],
     "away_goals": [
       "A. Jämsen (F. Pinelli)",
-      "G. Gawdin (M. Chromiak, N. Alexandrov)"
+      "G. Gawdin (M. Chromiak, N. Alexandrov)",
+      "A. Jämsen (N. Alexandrov)"
     ],
     "result": null,
     "overtime_type": null,
