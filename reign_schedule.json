@@ -1391,8 +1391,8 @@
     "date": "Wed, Feb 18",
     "opponent": "Abbotsford",
     "location": "Home",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 4,
     "away_score": 2,
     "home_goals": [
@@ -1405,7 +1405,7 @@
       "B. Berard (N. Åman, D. Klimovich)",
       "C. Stillman (J. Woo, N. Knyzhov)"
     ],
-    "result": null,
+    "result": "W 2-4",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028534&lang_id=1",
     "scheduled_start": "2026-02-18T19:00:00-08:00"
