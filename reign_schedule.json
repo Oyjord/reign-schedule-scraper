@@ -1392,16 +1392,16 @@
     "opponent": "Abbotsford",
     "location": "Home",
     "status": "Live",
-    "game_time": "3:12 2nd",
+    "game_time": "Intermission",
     "home_score": 3,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
       "N. Alexandrov (S. Bolduc, G. Gawdin)",
       "J. Millar (K. Connors, J. Wright)",
       "O. Salin (J. Wright, J. Hicketts)"
     ],
     "away_goals": [
-
+      "B. Berard (N. Åman, D. Klimovich)"
     ],
     "result": null,
     "overtime_type": null,
