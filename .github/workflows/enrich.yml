@@ -3,7 +3,7 @@ name: Enrich Reign Schedule
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/8 1-6 * * *'
+    - cron: '*/15 1-6 * * *'
 
 
 jobs:
