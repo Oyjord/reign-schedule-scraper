@@ -595,15 +595,16 @@
     "opponent": "Tucson",
     "location": "Away",
     "status": "Live",
-    "game_time": "8:08 2nd",
+    "game_time": "7:09 2nd",
     "home_score": 1,
-    "away_score": 2,
+    "away_score": 3,
     "home_goals": [
       "A. Poganski (D. Simashev, R. Russo)"
     ],
     "away_goals": [
       "F. Pinelli (C. Guttman)",
-      "A. Jämsen ( )"
+      "A. Jämsen (F. Pinelli)",
+      "A. Lee (K. Connors, O. Salin)"
     ],
     "result": null,
     "overtime_type": null,
