@@ -595,11 +595,12 @@
     "opponent": "Tucson",
     "location": "Away",
     "status": "Live",
-    "game_time": "7:09 2nd",
-    "home_score": 1,
+    "game_time": "1:16 2nd",
+    "home_score": 2,
     "away_score": 3,
     "home_goals": [
-      "A. Poganski (D. Simashev, R. Russo)"
+      "A. Poganski (D. Simashev, R. Russo)",
+      "D. But (A. Agozzino)"
     ],
     "away_goals": [
       "F. Pinelli (C. Guttman)",
