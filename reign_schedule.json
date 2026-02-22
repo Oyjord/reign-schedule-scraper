@@ -594,8 +594,8 @@
     "date": "Sat, Feb 21",
     "opponent": "Tucson",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 2,
     "away_score": 4,
     "home_goals": [
@@ -608,7 +608,7 @@
       "A. Lee (K. Connors, O. Salin)",
       "J. Millar (G. Gawdin)"
     ],
-    "result": null,
+    "result": "W 4-2",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028564&lang_id=1",
     "scheduled_start": "2026-02-21T18:00:00-08:00"
