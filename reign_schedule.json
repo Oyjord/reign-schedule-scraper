@@ -595,14 +595,14 @@
     "opponent": "Tucson",
     "location": "Away",
     "status": "Live",
-    "game_time": "14:46 1st",
+    "game_time": "10:00 1st",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
 
     ],
     "away_goals": [
-
+      "F. Pinelli (C. Guttman)"
     ],
     "result": null,
     "overtime_type": null,
