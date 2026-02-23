@@ -968,18 +968,20 @@
     "opponent": "Tucson",
     "location": "Away",
     "status": "Live",
-    "game_time": "4:43 3rd",
-    "home_score": 2,
+    "game_time": "2:41 3rd",
+    "home_score": 3,
     "away_score": 4,
     "home_goals": [
       "S. Perunovich (M. Matikka, O. Allard)",
-      "A. Poganski (D. But, D. Simashev)"
+      "A. Poganski (D. But, D. Simashev)",
+      "K. Rooney (O. Allard)"
     ],
     "away_goals": [
       "A. Lee (M. Chromiak, K. Connors)",
       "A. Lee (A. Jämsen, S. Bolduc)",
       "M. Chromiak (G. Gawdin, N. Alexandrov)",
-      "J. Wright (K. Connors)"
+      "J. Wright (K. Connors)",
+      "J. Wright ( )"
     ],
     "result": null,
     "overtime_type": null,
