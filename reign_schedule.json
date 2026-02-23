@@ -967,8 +967,8 @@
     "date": "Sun, Feb 22",
     "opponent": "Tucson",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 3,
     "away_score": 5,
     "home_goals": [
@@ -983,7 +983,7 @@
       "J. Wright (K. Connors)",
       "J. Wright (A. Lee)"
     ],
-    "result": null,
+    "result": "W 5-3",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028571&lang_id=1",
     "scheduled_start": "2026-02-22T15:00:00-08:00"
