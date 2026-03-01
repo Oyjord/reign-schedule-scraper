@@ -1060,14 +1060,14 @@
     "opponent": "Bakersfield",
     "location": "Home",
     "status": "Live",
-    "game_time": "14:40 1st",
+    "game_time": "12:01 1st",
     "home_score": 1,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
       "A. Jämsen ( )"
     ],
     "away_goals": [
-
+      "A. Leppanen (V. Marjala, S. Griffith)"
     ],
     "result": null,
     "overtime_type": null,
