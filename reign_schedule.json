@@ -1060,13 +1060,14 @@
     "opponent": "Bakersfield",
     "location": "Home",
     "status": "Live",
-    "game_time": "9:59 3rd",
-    "home_score": 3,
+    "game_time": "Unofficial Final",
+    "home_score": 4,
     "away_score": 2,
     "home_goals": [
       "A. Jämsen ( )",
       "J. Wright (J. Millar, A. Jämsen)",
-      "K. Ziemmer (L. Brown, S. Bolduc)"
+      "K. Ziemmer (L. Brown, S. Bolduc)",
+      "C. Guttman (A. Lee, J. Hicketts)"
     ],
     "away_goals": [
       "A. Leppanen (V. Marjala, S. Griffith)",
