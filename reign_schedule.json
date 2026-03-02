@@ -1059,8 +1059,8 @@
     "date": "Sun, Mar 1",
     "opponent": "Bakersfield",
     "location": "Home",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 4,
     "away_score": 2,
     "home_goals": [
@@ -1073,7 +1073,7 @@
       "A. Leppanen (V. Marjala, S. Griffith)",
       "J. Samanski (R. Järventie, D. Carfagna)"
     ],
-    "result": null,
+    "result": "W 2-4",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028612&lang_id=1",
     "scheduled_start": "2026-03-01T15:00:00-08:00"
