@@ -1588,13 +1588,14 @@
     "opponent": "Tucson",
     "location": "Home",
     "status": "Live",
-    "game_time": "2:48 3rd",
-    "home_score": 3,
+    "game_time": "1:37 3rd",
+    "home_score": 4,
     "away_score": 1,
     "home_goals": [
       "M. Chromiak (A. Lee, L. Brown)",
       "A. Lee (C. Guttman, G. Gawdin)",
-      "J. Wright (A. Booth, F. Pinelli)"
+      "J. Wright (A. Booth, F. Pinelli)",
+      "J. Wright (J. Millar)"
     ],
     "away_goals": [
       "A. Agozzino ( )"
