@@ -1588,14 +1588,14 @@
     "opponent": "Tucson",
     "location": "Home",
     "status": "Live",
-    "game_time": "2:11 1st",
+    "game_time": "Intermission",
     "home_score": 1,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
       "M. Chromiak (A. Lee, L. Brown)"
     ],
     "away_goals": [
-
+      "A. Agozzino ( )"
     ],
     "result": null,
     "overtime_type": null,
