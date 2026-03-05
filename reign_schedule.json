@@ -1587,8 +1587,8 @@
     "date": "Wed, Mar 4",
     "opponent": "Tucson",
     "location": "Home",
-    "status": "Live",
-    "game_time": "1:37 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 4,
     "away_score": 1,
     "home_goals": [
@@ -1600,7 +1600,7 @@
     "away_goals": [
       "A. Agozzino ( )"
     ],
-    "result": null,
+    "result": "W 1-4",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028624&lang_id=1",
     "scheduled_start": "2026-03-04T19:00:00-08:00"
