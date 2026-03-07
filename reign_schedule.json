@@ -202,15 +202,16 @@
     "opponent": "Henderson",
     "location": "Home",
     "status": "Live",
-    "game_time": "19:30 3rd",
+    "game_time": "17:57 3rd",
     "home_score": 2,
-    "away_score": 1,
+    "away_score": 2,
     "home_goals": [
       "K. Isogai (A. Booth, K. Kirsanov)",
       "M. Chromiak ( )"
     ],
     "away_goals": [
-      "J. Brabenec (M. McLain, J. Fleming)"
+      "J. Brabenec (M. McLain, J. Fleming)",
+      "M. Sapovaliv (T. Laczynski, L. Cormier)"
     ],
     "result": null,
     "overtime_type": null,
