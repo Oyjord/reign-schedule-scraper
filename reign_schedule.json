@@ -1088,14 +1088,14 @@
     "opponent": "Henderson",
     "location": "Away",
     "status": "Live",
-    "game_time": "6:36 1st",
+    "game_time": "Intermission",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
 
     ],
     "away_goals": [
-
+      "G. Gawdin (C. Guttman, L. Brown)"
     ],
     "result": null,
     "overtime_type": null,
