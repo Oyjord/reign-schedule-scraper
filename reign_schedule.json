@@ -1087,18 +1087,18 @@
     "date": "Sun, Mar 8",
     "opponent": "Henderson",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Intermission",
-    "home_score": 0,
+    "status": "Final",
+    "game_time": null,
+    "home_score": 1,
     "away_score": 2,
     "home_goals": [
-
+      "J. Davies (A. Holtz, T. Connelly)"
     ],
     "away_goals": [
       "G. Gawdin (C. Guttman, L. Brown)",
       "C. Guttman (G. Gawdin)"
     ],
-    "result": null,
+    "result": "W 2-1",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028657&lang_id=1",
     "scheduled_start": "2026-03-08T15:00:00-07:00"
