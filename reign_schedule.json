@@ -1532,15 +1532,17 @@
     "date": "Wed, Mar 11",
     "opponent": "Colorado",
     "location": "Home",
-    "status": "Upcoming",
-    "game_time": null,
-    "home_score": 0,
-    "away_score": 0,
+    "status": "Live",
+    "game_time": "11:11 2nd",
+    "home_score": 2,
+    "away_score": 2,
     "home_goals": [
-
+      "F. Pinelli (J. Hughes)",
+      "M. Chromiak (G. Gawdin, L. Brown)"
     ],
     "away_goals": [
-
+      "A. Barré-Boulet (J. Megna)",
+      "W. Aamodt (T. Tynan, J. Ahcan)"
     ],
     "result": null,
     "overtime_type": null,
