@@ -1532,10 +1532,10 @@
     "date": "Wed, Mar 11",
     "opponent": "Colorado",
     "location": "Home",
-    "status": "Live",
-    "game_time": "10:02 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 3,
-    "away_score": 3,
+    "away_score": 4,
     "home_goals": [
       "F. Pinelli (J. Hughes)",
       "M. Chromiak (G. Gawdin, L. Brown)",
@@ -1546,8 +1546,8 @@
       "W. Aamodt (T. Tynan, J. Ahcan)",
       "T. Nielsen (V. Puustinen, T. Tynan)"
     ],
-    "result": null,
-    "overtime_type": null,
+    "result": "L(SO) 4-3",
+    "overtime_type": "SO",
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028668&lang_id=1",
     "scheduled_start": "2026-03-11T19:00:00-07:00"
   },
