@@ -1533,16 +1533,18 @@
     "opponent": "Colorado",
     "location": "Home",
     "status": "Live",
-    "game_time": "11:11 2nd",
-    "home_score": 2,
-    "away_score": 2,
+    "game_time": "10:02 3rd",
+    "home_score": 3,
+    "away_score": 3,
     "home_goals": [
       "F. Pinelli (J. Hughes)",
-      "M. Chromiak (G. Gawdin, L. Brown)"
+      "M. Chromiak (G. Gawdin, L. Brown)",
+      "G. Gawdin (C. Guttman)"
     ],
     "away_goals": [
       "A. Barré-Boulet (J. Megna)",
-      "W. Aamodt (T. Tynan, J. Ahcan)"
+      "W. Aamodt (T. Tynan, J. Ahcan)",
+      "T. Nielsen (V. Puustinen, T. Tynan)"
     ],
     "result": null,
     "overtime_type": null,
