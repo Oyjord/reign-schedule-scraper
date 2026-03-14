@@ -142,11 +142,12 @@
     "opponent": "Coachella Valley",
     "location": "Away",
     "status": "Live",
-    "game_time": "9:31 2nd",
-    "home_score": 1,
+    "game_time": "Intermission",
+    "home_score": 2,
     "away_score": 1,
     "home_goals": [
-      "M. Stephens (G. Olofsson, T. Jugnauth)"
+      "M. Stephens (G. Olofsson, T. Jugnauth)",
+      "J. Nyman (O. Fisker Mølgaard, C. Rehkopf)"
     ],
     "away_goals": [
       "M. Chromiak (O. Salin, K. Connors)"
