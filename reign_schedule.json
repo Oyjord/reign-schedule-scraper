@@ -747,14 +747,17 @@
     "opponent": "Coachella Valley",
     "location": "Home",
     "status": "Live",
-    "game_time": "19:07 2nd",
-    "home_score": 1,
-    "away_score": 1,
+    "game_time": "5:48 3rd",
+    "home_score": 2,
+    "away_score": 3,
     "home_goals": [
-      "A. Lee (K. Isogai)"
+      "A. Lee (K. Isogai)",
+      "K. Ziemmer (F. Pinelli, A. Booth)"
     ],
     "away_goals": [
-      "E. Šalé (T. Jugnauth, J. Hayden)"
+      "E. Šalé (T. Jugnauth, J. Hayden)",
+      "L. Roed (Z. Uens)",
+      "A. Loshko (G. Olofsson)"
     ],
     "result": null,
     "overtime_type": null,
