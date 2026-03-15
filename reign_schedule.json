@@ -747,14 +747,14 @@
     "opponent": "Coachella Valley",
     "location": "Home",
     "status": "Live",
-    "game_time": "7:53 1st",
+    "game_time": "4:54 1st",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
 
     ],
     "away_goals": [
-
+      "E. Šalé (T. Jugnauth, J. Hayden)"
     ],
     "result": null,
     "overtime_type": null,
