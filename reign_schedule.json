@@ -1565,15 +1565,16 @@
     "opponent": "Abbotsford",
     "location": "Home",
     "status": "Live",
-    "game_time": "7:21 3rd",
-    "home_score": 2,
-    "away_score": 0,
+    "game_time": "0:00 3rd",
+    "home_score": 3,
+    "away_score": 1,
     "home_goals": [
       "K. Connors (M. Chromiak)",
-      "K. Ziemmer (N. Alexandrov, K. Isogai)"
+      "K. Ziemmer (N. Alexandrov, K. Isogai)",
+      "K. Connors (N. Alexandrov)"
     ],
     "away_goals": [
-
+      "T. Mueller (D. Klimovich, J. Thompson)"
     ],
     "result": null,
     "overtime_type": null,
