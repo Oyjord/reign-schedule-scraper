@@ -1564,8 +1564,8 @@
     "date": "Wed, Mar 18",
     "opponent": "Abbotsford",
     "location": "Home",
-    "status": "Live",
-    "game_time": "0:00 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 3,
     "away_score": 1,
     "home_goals": [
@@ -1576,7 +1576,7 @@
     "away_goals": [
       "T. Mueller (D. Klimovich, J. Thompson)"
     ],
-    "result": null,
+    "result": "W 1-3",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028718&lang_id=1",
     "scheduled_start": "2026-03-18T19:00:00-07:00"
