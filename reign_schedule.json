@@ -1565,11 +1565,12 @@
     "opponent": "Abbotsford",
     "location": "Home",
     "status": "Live",
-    "game_time": "Intermission",
-    "home_score": 1,
+    "game_time": "12:29 3rd",
+    "home_score": 2,
     "away_score": 0,
     "home_goals": [
-      "K. Connors (M. Chromiak)"
+      "K. Connors (M. Chromiak)",
+      "K. Ziemmer (N. Alexandrov, K. Isogai)"
     ],
     "away_goals": [
 
