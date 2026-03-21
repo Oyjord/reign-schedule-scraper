@@ -165,16 +165,16 @@
     "opponent": "Iowa",
     "location": "Away",
     "status": "Live",
-    "game_time": "Intermission",
+    "game_time": "4:15 3rd",
     "home_score": 3,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
       "N. Aubé-Kubel (J. Foudy, W. Zmolek)",
       "D. Gambrell (G. Mayhew)",
       "M. Kiersted (G. Mayhew, T. Pitlick)"
     ],
     "away_goals": [
-
+      "L. Brown (F. Pinelli, K. Kirsanov)"
     ],
     "result": null,
     "overtime_type": null,
