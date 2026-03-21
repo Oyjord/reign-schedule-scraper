@@ -775,14 +775,14 @@
     "opponent": "Iowa",
     "location": "Away",
     "status": "Live",
-    "game_time": "6:19 2nd",
+    "game_time": "1:07 2nd",
     "home_score": 1,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
       "G. Mayhew (B. Jones, D. Gambrell)"
     ],
     "away_goals": [
-
+      "N. Alexandrov (M. Chromiak, C. Guttman)"
     ],
     "result": null,
     "overtime_type": null,
