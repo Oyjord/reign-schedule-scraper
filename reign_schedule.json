@@ -774,12 +774,12 @@
     "date": "Sat, Mar 21",
     "opponent": "Iowa",
     "location": "Away",
-    "status": "Upcoming",
-    "game_time": null,
-    "home_score": 0,
+    "status": "Live",
+    "game_time": "6:07 1st",
+    "home_score": 1,
     "away_score": 0,
     "home_goals": [
-
+      "G. Mayhew (B. Jones, D. Gambrell)"
     ],
     "away_goals": [
 
