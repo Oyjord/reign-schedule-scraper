@@ -774,8 +774,8 @@
     "date": "Sat, Mar 21",
     "opponent": "Iowa",
     "location": "Away",
-    "status": "Live",
-    "game_time": "0:36 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 1,
     "away_score": 3,
     "home_goals": [
@@ -786,7 +786,7 @@
       "M. Chromiak ( )",
       "A. Lee ( )"
     ],
-    "result": null,
+    "result": "W 3-1",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028737&lang_id=1",
     "scheduled_start": "2026-03-21T15:00:00-07:00"
