@@ -1591,17 +1591,19 @@
     "date": "Wed, Mar 25",
     "opponent": "Henderson",
     "location": "Away",
-    "status": "Live",
-    "game_time": "16:36 3rd",
-    "home_score": 0,
+    "status": "Final",
+    "game_time": null,
+    "home_score": 3,
     "away_score": 1,
     "home_goals": [
-
+      "L. Cormier (T. Connelly, R. Lavoie)",
+      "J. Brabenec (D. Coghlan, J. Megna)",
+      "T. Laczynski (M. Cataford, D. Coghlan)"
     ],
     "away_goals": [
       "F. Pinelli (K. Ziemmer, L. Brown)"
     ],
-    "result": null,
+    "result": "L 1-3",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028758&lang_id=1",
     "scheduled_start": "2026-03-25T19:00:00-07:00"
