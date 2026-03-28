@@ -188,14 +188,14 @@
     "opponent": "Tucson",
     "location": "Away",
     "status": "Live",
-    "game_time": "8:01 1st",
+    "game_time": "Intermission",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
 
     ],
     "away_goals": [
-
+      "M. Chromiak (L. Brown, N. Alexandrov)"
     ],
     "result": null,
     "overtime_type": null,
