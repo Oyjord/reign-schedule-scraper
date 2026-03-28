@@ -188,16 +188,17 @@
     "opponent": "Tucson",
     "location": "Away",
     "status": "Live",
-    "game_time": "14:33 3rd",
+    "game_time": "12:01 3rd",
     "home_score": 2,
-    "away_score": 2,
+    "away_score": 3,
     "home_goals": [
       "R. Russo (S. Perunovich, B. McCartney)",
       "J. Luypen (J. Ricketts)"
     ],
     "away_goals": [
       "M. Chromiak (L. Brown, N. Alexandrov)",
-      "C. Guttman (L. Brown, M. Chromiak)"
+      "C. Guttman (L. Brown, M. Chromiak)",
+      "M. Chromiak (G. Gawdin, N. Alexandrov)"
     ],
     "result": null,
     "overtime_type": null,
