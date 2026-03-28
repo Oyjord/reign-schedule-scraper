@@ -187,8 +187,8 @@
     "date": "Fri, Mar 27",
     "opponent": "Tucson",
     "location": "Away",
-    "status": "Live",
-    "game_time": "0:00 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 2,
     "away_score": 3,
     "home_goals": [
@@ -200,7 +200,7 @@
       "C. Guttman (L. Brown, M. Chromiak)",
       "M. Chromiak (G. Gawdin, N. Alexandrov)"
     ],
-    "result": null,
+    "result": "W 3-2",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028773&lang_id=1",
     "scheduled_start": "2026-03-27T19:00:00-07:00"
