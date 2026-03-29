@@ -800,13 +800,14 @@
     "opponent": "Tucson",
     "location": "Away",
     "status": "Live",
-    "game_time": "0:52 3rd",
-    "home_score": 3,
+    "game_time": "Unofficial Final",
+    "home_score": 4,
     "away_score": 2,
     "home_goals": [
       "C. Hebig (B. McCartney, K. Rooney)",
       "J. Lutz ( )",
-      "A. Agozzino (D. Simashev, S. Perunovich)"
+      "A. Agozzino (D. Simashev, S. Perunovich)",
+      "A. Agozzino (A. Poganski)"
     ],
     "away_goals": [
       "J. Dvořák (A. Lee, G. Gawdin)",
