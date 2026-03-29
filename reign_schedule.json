@@ -800,7 +800,7 @@
     "opponent": "Tucson",
     "location": "Away",
     "status": "Live",
-    "game_time": "Intermission",
+    "game_time": "18:12 3rd",
     "home_score": 2,
     "away_score": 2,
     "home_goals": [
@@ -808,7 +808,7 @@
       "J. Lutz ( )"
     ],
     "away_goals": [
-      "J. Dvořák (G. Gawdin, A. Lee)",
+      "J. Dvořák (A. Lee, G. Gawdin)",
       "K. Connors (A. Jämsen, K. Ziemmer)"
     ],
     "result": null,
