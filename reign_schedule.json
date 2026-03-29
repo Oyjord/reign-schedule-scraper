@@ -799,8 +799,8 @@
     "date": "Sat, Mar 28",
     "opponent": "Tucson",
     "location": "Away",
-    "status": "Live",
-    "game_time": "Unofficial Final",
+    "status": "Final",
+    "game_time": null,
     "home_score": 4,
     "away_score": 2,
     "home_goals": [
@@ -813,7 +813,7 @@
       "J. Dvořák (A. Lee, G. Gawdin)",
       "K. Connors (A. Jämsen, K. Ziemmer)"
     ],
-    "result": null,
+    "result": "L 2-4",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028786&lang_id=1",
     "scheduled_start": "2026-03-28T19:00:00-07:00"
