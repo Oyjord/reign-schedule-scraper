@@ -800,14 +800,16 @@
     "opponent": "Tucson",
     "location": "Away",
     "status": "Live",
-    "game_time": "Intermission",
-    "home_score": 1,
-    "away_score": 0,
+    "game_time": "4:16 2nd",
+    "home_score": 2,
+    "away_score": 2,
     "home_goals": [
-      "C. Hebig (B. McCartney, K. Rooney)"
+      "C. Hebig (B. McCartney, K. Rooney)",
+      "J. Lutz ( )"
     ],
     "away_goals": [
-
+      "J. Dvořák (G. Gawdin, A. Lee)",
+      "K. Connors (A. Jämsen, K. Ziemmer)"
     ],
     "result": null,
     "overtime_type": null,
