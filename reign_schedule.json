@@ -1360,10 +1360,10 @@
     "date": "Wed, Apr 1",
     "opponent": "Coachella Valley",
     "location": "Away",
-    "status": "Live",
-    "game_time": "14:29 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 0,
-    "away_score": 5,
+    "away_score": 7,
     "home_goals": [
 
     ],
@@ -1372,9 +1372,11 @@
       "C. Guttman (A. Lee, G. Gawdin)",
       "J. Hicketts (L. Brown, F. Pinelli)",
       "K. Connors (J. Hicketts, A. Lee)",
-      "C. Guttman (A. Lee)"
+      "C. Guttman (A. Lee)",
+      "G. Gawdin (C. Guttman, A. Booth)",
+      "M. Chromiak (K. Connors)"
     ],
-    "result": null,
+    "result": "W 7-0",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028802&lang_id=1",
     "scheduled_start": "2026-04-01T18:30:00-07:00"
