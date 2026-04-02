@@ -1361,14 +1361,16 @@
     "opponent": "Coachella Valley",
     "location": "Away",
     "status": "Live",
-    "game_time": "5:11 1st",
+    "game_time": "15:58 2nd",
     "home_score": 0,
-    "away_score": 1,
+    "away_score": 3,
     "home_goals": [
 
     ],
     "away_goals": [
-      "C. Guttman (A. Lee)"
+      "C. Guttman (A. Lee)",
+      "C. Guttman (A. Lee, G. Gawdin)",
+      "J. Hicketts (L. Brown, F. Pinelli)"
     ],
     "result": null,
     "overtime_type": null,
