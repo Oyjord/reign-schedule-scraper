@@ -471,15 +471,16 @@
     "opponent": "Bakersfield",
     "location": "Home",
     "status": "Live",
-    "game_time": "4:21 3rd",
-    "home_score": 5,
+    "game_time": "2:14 3rd",
+    "home_score": 6,
     "away_score": 3,
     "home_goals": [
       "G. Gawdin (C. Guttman, J. Hicketts)",
       "A. Lee (F. Pinelli, K. Connors)",
       "J. Hughes (K. Connors, A. Booth)",
       "N. Alexandrov (A. Jämsen, L. Brown)",
-      "A. Jämsen (L. Brown, F. Pinelli)"
+      "A. Jämsen (L. Brown, F. Pinelli)",
+      "N. Alexandrov ( )"
     ],
     "away_goals": [
       "R. Järventie (I. Howard, Q. Hutson)",
