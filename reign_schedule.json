@@ -471,15 +471,19 @@
     "opponent": "Bakersfield",
     "location": "Home",
     "status": "Live",
-    "game_time": "Intermission",
-    "home_score": 1,
-    "away_score": 2,
+    "game_time": "8:05 2nd",
+    "home_score": 4,
+    "away_score": 3,
     "home_goals": [
-      "G. Gawdin (C. Guttman, J. Hicketts)"
+      "G. Gawdin (C. Guttman, J. Hicketts)",
+      "A. Lee (F. Pinelli, K. Connors)",
+      "J. Hughes (K. Connors)",
+      "N. Alexandrov (L. Brown, J. Hicketts)"
     ],
     "away_goals": [
       "R. Järventie (I. Howard, Q. Hutson)",
-      "S. Poulin (M. Petrov)"
+      "S. Poulin (M. Petrov)",
+      "J. Hamblin (C. Dineen, J. Brown)"
     ],
     "result": null,
     "overtime_type": null,
