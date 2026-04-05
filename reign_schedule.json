@@ -470,15 +470,15 @@
     "date": "Sat, Apr 4",
     "opponent": "Bakersfield",
     "location": "Home",
-    "status": "Upcoming",
-    "game_time": null,
+    "status": "Live",
+    "game_time": "8:26 1st",
     "home_score": 0,
-    "away_score": 0,
+    "away_score": 1,
     "home_goals": [
 
     ],
     "away_goals": [
-
+      "R. Järventie (I. Howard, Q. Hutson)"
     ],
     "result": null,
     "overtime_type": null,
