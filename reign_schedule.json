@@ -1227,18 +1227,19 @@
     "date": "Tue, Apr 7",
     "opponent": "Colorado",
     "location": "Home",
-    "status": "Live",
-    "game_time": "8:48 3rd",
-    "home_score": 1,
+    "status": "Final",
+    "game_time": null,
+    "home_score": 2,
     "away_score": 1,
     "home_goals": [
-      "M. Chromiak (C. Guttman)"
+      "M. Chromiak (C. Guttman)",
+      "K. Connors (M. Chromiak, P. Copley)"
     ],
     "away_goals": [
       "J. Ahcan (D. Gushchin, T. Tynan)"
     ],
-    "result": null,
-    "overtime_type": null,
+    "result": "W(OT) 1-2",
+    "overtime_type": "OT",
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028840&lang_id=1",
     "scheduled_start": "2026-04-07T19:00:00-07:00"
   },
