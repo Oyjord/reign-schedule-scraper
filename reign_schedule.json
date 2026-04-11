@@ -5,14 +5,16 @@
     "opponent": "Coachella Valley",
     "location": "Home",
     "status": "Live",
-    "game_time": "Intermission",
-    "home_score": 1,
-    "away_score": 0,
+    "game_time": "12:48 2nd",
+    "home_score": 3,
+    "away_score": 1,
     "home_goals": [
-      "L. Brown (N. Alexandrov, C. Guttman)"
+      "L. Brown (N. Alexandrov, C. Guttman)",
+      "F. Pinelli (N. Alexandrov, J. Millar)",
+      "K. Isogai (K. Ziemmer)"
     ],
     "away_goals": [
-
+      "J. Novak (J. Janicke)"
     ],
     "result": null,
     "overtime_type": null,
