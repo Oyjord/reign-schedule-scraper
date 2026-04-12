@@ -434,11 +434,12 @@
     "opponent": "Coachella Valley",
     "location": "Away",
     "status": "Live",
-    "game_time": "Intermission",
-    "home_score": 1,
+    "game_time": "1:35 3rd",
+    "home_score": 2,
     "away_score": 2,
     "home_goals": [
-      "M. Stephens ( )"
+      "M. Stephens ( )",
+      "T. Jugnauth (J. Avon, L. Morrison)"
     ],
     "away_goals": [
       "K. Ziemmer (J. Hughes)",
