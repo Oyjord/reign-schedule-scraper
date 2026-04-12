@@ -434,11 +434,11 @@
     "opponent": "Coachella Valley",
     "location": "Away",
     "status": "Live",
-    "game_time": "6:48 2nd",
-    "home_score": 0,
+    "game_time": "Intermission",
+    "home_score": 1,
     "away_score": 2,
     "home_goals": [
-
+      "M. Stephens ( )"
     ],
     "away_goals": [
       "K. Ziemmer (J. Hughes)",
