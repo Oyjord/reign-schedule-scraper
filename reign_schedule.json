@@ -433,20 +433,21 @@
     "date": "Sat, Apr 11",
     "opponent": "Coachella Valley",
     "location": "Away",
-    "status": "Live",
-    "game_time": "1:35 3rd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 2,
-    "away_score": 2,
+    "away_score": 3,
     "home_goals": [
       "M. Stephens ( )",
       "T. Jugnauth (J. Avon, L. Morrison)"
     ],
     "away_goals": [
       "K. Ziemmer (J. Hughes)",
-      "M. Chromiak (G. Gawdin, N. Alexandrov)"
+      "M. Chromiak (G. Gawdin, N. Alexandrov)",
+      "G. Gawdin (C. Guttman, A. Booth)"
     ],
-    "result": null,
-    "overtime_type": null,
+    "result": "W(OT) 3-2",
+    "overtime_type": "OT",
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028865&lang_id=1",
     "scheduled_start": "2026-04-11T18:00:00-07:00"
   },
