@@ -28,14 +28,16 @@
     "opponent": "San Diego",
     "location": "Home",
     "status": "Live",
-    "game_time": "19:24 1st",
-    "home_score": 0,
-    "away_score": 0,
+    "game_time": "9:38 3rd",
+    "home_score": 3,
+    "away_score": 1,
     "home_goals": [
-
+      "N. Alexandrov (K. Connors, M. Chromiak)",
+      "M. Chromiak (N. Alexandrov, L. Brown)",
+      "N. Alexandrov (K. Connors)"
     ],
     "away_goals": [
-
+      "C. Burke (S. Solberg, R. McKeown)"
     ],
     "result": null,
     "overtime_type": null,
