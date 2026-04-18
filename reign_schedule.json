@@ -27,19 +27,20 @@
     "date": "Fri, Apr 17",
     "opponent": "San Diego",
     "location": "Home",
-    "status": "Live",
-    "game_time": "9:38 3rd",
-    "home_score": 3,
+    "status": "Final",
+    "game_time": null,
+    "home_score": 4,
     "away_score": 1,
     "home_goals": [
       "N. Alexandrov (K. Connors, M. Chromiak)",
       "M. Chromiak (N. Alexandrov, L. Brown)",
-      "N. Alexandrov (K. Connors)"
+      "N. Alexandrov (K. Connors)",
+      "K. Connors (L. Brown, M. Chromiak)"
     ],
     "away_goals": [
       "C. Burke (S. Solberg, R. McKeown)"
     ],
-    "result": null,
+    "result": "W 1-4",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028899&lang_id=1",
     "scheduled_start": "2026-04-17T19:00:00-07:00"
