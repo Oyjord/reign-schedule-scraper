@@ -460,14 +460,15 @@
     "opponent": "Abbotsford",
     "location": "Home",
     "status": "Live",
-    "game_time": "17:57 1st",
+    "game_time": "3:54 2nd",
     "home_score": 0,
-    "away_score": 1,
+    "away_score": 2,
     "home_goals": [
 
     ],
     "away_goals": [
-      "B. Berard ( )"
+      "B. Berard (C. Walker)",
+      "B. Schimek (T. Mueller, J. Thompson)"
     ],
     "result": null,
     "overtime_type": null,
