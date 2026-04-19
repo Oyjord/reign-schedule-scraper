@@ -459,8 +459,8 @@
     "date": "Sat, Apr 18",
     "opponent": "Abbotsford",
     "location": "Home",
-    "status": "Live",
-    "game_time": "3:54 2nd",
+    "status": "Final",
+    "game_time": null,
     "home_score": 0,
     "away_score": 2,
     "home_goals": [
@@ -470,7 +470,7 @@
       "B. Berard (C. Walker)",
       "B. Schimek (T. Mueller, J. Thompson)"
     ],
-    "result": null,
+    "result": "L 2-0",
     "overtime_type": null,
     "game_report_url": "https://lscluster.hockeytech.com/game_reports/official-game-report.php?client_code=ahl&game_id=1028910&lang_id=1",
     "scheduled_start": "2026-04-18T18:00:00-07:00"
